@@ -1,0 +1,1001 @@
+lokasi,waktu,jumlah_kendaraan,kecepatan_km_jam,kepadatan_kendaraan_per_km,durasi_kemacetan_menit,arah_arus,kondisi_cuaca,status_sistem,visibilitas_meter,frame_width,frame_height,vehicle_count_per_frame,brightness_level,motion_density
+Jalan Pejanggik,07:20,1603,23.95,500.94,24,Selatan → Utara,Cerah,Warning,91,1280,720,16,0.74,0.45
+Jalan Udayana,12:20,613,27.47,122.6,18,Barat → Timur,Hujan ringan,Warning,81,640,360,13,0.88,0.27
+Jalan Udayana,15:30,782,46.82,156.4,26,Barat → Timur,Cerah,Warning,79,640,360,4,0.33,0.59
+Jalan Cilinaya,22:10,1151,46.73,460.4,35,Utara → Selatan,Hujan ringan,Siaga,87,1920,1080,6,0.86,0.7
+Jalan Udayana,13:00,746,21.53,149.2,17,Timur → Barat,Hujan lebat,Normal,87,1920,1080,24,0.24,0.78
+Jalan Bung Karno,12:50,997,22.2,221.56,17,Barat → Timur,Hujan lebat,Siaga tinggi,94,1280,720,19,0.76,0.44
+Jalan Majapahit,18:00,1726,47.25,431.5,35,Utara → Selatan,Berawan,Warning,98,1280,720,13,0.78,0.21
+Jalan Bung Karno,06:40,990,8.14,220.0,27,Barat → Timur,Cerah,Normal,68,640,360,22,0.44,0.86
+Jalan Bung Karno,08:40,1251,44.79,278.0,15,Utara → Selatan,Cerah,Siaga tinggi,75,1280,720,5,0.22,0.53
+Jalan Cilinaya,10:10,749,15.08,299.6,25,Timur → Barat,Hujan ringan,Normal,83,1920,1080,20,0.67,0.84
+Jalan Bung Karno,19:10,1006,10.22,223.56,15,Utara → Selatan,Hujan ringan,Warning,45,640,360,6,0.56,0.57
+Jalan Bung Karno,15:20,1191,16.93,264.67,15,Selatan → Utara,Berawan,Siaga tinggi,88,640,360,16,0.51,0.87
+Jalan Udayana,13:40,348,10.06,69.6,22,Selatan → Utara,Hujan lebat,Normal,95,1280,720,19,0.42,0.75
+Jalan Udayana,13:00,750,46.72,150.0,0,Timur → Barat,Berawan,Siaga,67,1920,1080,5,0.79,0.59
+Jalan Pendidikan,17:50,1346,22.88,448.67,2,Timur → Barat,Hujan lebat,Siaga tinggi,84,640,360,9,0.36,0.26
+Jalan Cilinaya,07:20,1379,41.68,551.6,14,Utara → Selatan,Berawan,Normal,76,640,360,1,0.31,0.54
+Jalan Cilinaya,12:40,978,21.24,391.2,9,Selatan → Utara,Cerah,Siaga,71,1920,1080,13,0.25,0.7
+Jalan Majapahit,06:10,903,38.22,225.75,23,Selatan → Utara,Hujan lebat,Siaga tinggi,60,640,360,18,0.99,0.73
+Jalan Pendidikan,09:30,1277,46.44,425.67,10,Barat → Timur,Hujan lebat,Siaga tinggi,84,640,360,20,0.78,0.28
+Jalan Majapahit,10:20,348,49.47,87.0,5,Selatan → Utara,Cerah,Siaga tinggi,95,1280,720,18,0.87,0.43
+Jalan Bung Karno,15:00,834,46.73,185.33,34,Selatan → Utara,Cerah,Warning,57,640,360,11,0.56,0.18
+Jalan Pendidikan,08:50,1679,26.06,559.67,17,Utara → Selatan,Hujan ringan,Siaga tinggi,45,1280,720,16,0.37,0.8
+Jalan Udayana,09:00,1638,13.56,327.6,20,Utara → Selatan,Berawan,Siaga tinggi,90,640,360,23,0.67,0.79
+Jalan Udayana,15:20,1085,48.65,217.0,5,Timur → Barat,Berawan,Siaga tinggi,40,1920,1080,14,0.95,0.2
+Jalan Bung Karno,12:50,872,41.09,193.78,14,Utara → Selatan,Berawan,Siaga,91,1920,1080,15,0.61,0.22
+Jalan Pejanggik,08:30,1736,43.78,542.5,21,Barat → Timur,Hujan ringan,Normal,87,640,360,7,0.7,0.59
+Jalan Pejanggik,06:00,1115,11.33,348.44,8,Barat → Timur,Berawan,Normal,76,640,360,11,0.31,0.75
+Jalan Pejanggik,06:40,715,11.17,223.44,23,Selatan → Utara,Hujan lebat,Warning,78,640,360,6,0.71,0.84
+Jalan Majapahit,12:00,590,38.84,147.5,13,Barat → Timur,Cerah,Siaga,53,1920,1080,6,0.46,0.78
+Jalan Pendidikan,21:10,1177,10.74,392.33,17,Selatan → Utara,Cerah,Normal,57,640,360,9,0.79,0.21
+Jalan Cilinaya,09:30,1594,34.08,637.6,13,Selatan → Utara,Hujan lebat,Normal,57,640,360,10,0.85,0.6
+Jalan Udayana,22:00,1034,12.54,206.8,38,Utara → Selatan,Berawan,Normal,67,1280,720,11,0.34,0.84
+Jalan Pendidikan,09:50,1635,20.93,545.0,19,Utara → Selatan,Hujan lebat,Warning,71,640,360,14,0.38,0.86
+Jalan Bung Karno,08:00,1923,26.79,427.33,9,Timur → Barat,Cerah,Normal,68,640,360,23,0.22,0.8
+Jalan Pejanggik,15:20,826,8.75,258.12,28,Barat → Timur,Hujan lebat,Normal,93,1280,720,13,0.5,0.75
+Jalan Pendidikan,18:50,1691,28.62,563.67,7,Selatan → Utara,Hujan lebat,Warning,82,640,360,21,0.48,0.53
+Jalan Pejanggik,10:10,786,44.69,245.62,22,Selatan → Utara,Berawan,Normal,75,1920,1080,15,0.58,0.3
+Jalan Majapahit,12:50,429,45.92,107.25,0,Selatan → Utara,Berawan,Siaga tinggi,84,1920,1080,2,0.42,0.34
+Jalan Majapahit,14:40,1066,39.82,266.5,6,Utara → Selatan,Hujan lebat,Siaga,65,640,360,6,0.56,0.19
+Jalan Bung Karno,07:50,1209,40.86,268.67,21,Selatan → Utara,Berawan,Normal,46,640,360,23,0.25,0.4
+Jalan Cilinaya,12:10,719,32.84,287.6,27,Selatan → Utara,Berawan,Warning,84,640,360,17,0.65,0.14
+Jalan Bung Karno,16:30,1318,32.06,292.89,21,Timur → Barat,Hujan ringan,Normal,71,1280,720,14,0.6,0.77
+Jalan Majapahit,18:10,1243,35.64,310.75,18,Utara → Selatan,Cerah,Siaga,93,1920,1080,24,0.82,0.54
+Jalan Pejanggik,17:10,1782,19.8,556.88,16,Utara → Selatan,Hujan ringan,Siaga,49,1280,720,16,0.26,0.64
+Jalan Cilinaya,20:30,800,44.52,320.0,5,Barat → Timur,Cerah,Warning,40,1280,720,18,0.63,0.88
+Jalan Pendidikan,20:30,562,26.2,187.33,12,Utara → Selatan,Hujan ringan,Siaga tinggi,74,1920,1080,15,0.37,0.15
+Jalan Pejanggik,22:40,997,39.84,311.56,15,Barat → Timur,Hujan ringan,Warning,67,1280,720,1,0.77,0.5
+Jalan Udayana,12:40,572,20.68,114.4,30,Selatan → Utara,Hujan ringan,Siaga tinggi,44,1280,720,21,0.49,0.56
+Jalan Cilinaya,15:20,965,29.64,386.0,23,Barat → Timur,Cerah,Siaga tinggi,95,640,360,9,0.42,0.45
+Jalan Cilinaya,20:50,772,20.77,308.8,2,Barat → Timur,Hujan lebat,Warning,44,640,360,4,0.91,0.52
+Jalan Cilinaya,13:00,1199,18.51,479.6,23,Barat → Timur,Cerah,Normal,61,1280,720,15,0.87,0.6
+Jalan Pejanggik,16:30,1379,21.83,430.94,16,Timur → Barat,Hujan ringan,Siaga tinggi,64,1920,1080,17,0.87,0.35
+Jalan Pejanggik,22:40,935,10.48,292.19,13,Timur → Barat,Cerah,Siaga tinggi,47,640,360,7,0.26,0.43
+Jalan Udayana,09:20,1998,21.06,399.6,26,Timur → Barat,Hujan lebat,Warning,93,1280,720,12,0.9,0.62
+Jalan Pendidikan,11:00,311,10.53,103.67,30,Selatan → Utara,Cerah,Warning,90,1920,1080,20,0.52,0.45
+Jalan Majapahit,17:50,1299,36.2,324.75,29,Timur → Barat,Cerah,Warning,83,1280,720,25,0.44,0.71
+Jalan Bung Karno,16:40,1571,38.96,349.11,11,Timur → Barat,Berawan,Siaga,61,1920,1080,1,0.45,0.66
+Jalan Pendidikan,17:40,1201,20.79,400.33,16,Utara → Selatan,Hujan ringan,Siaga,51,1280,720,5,0.89,0.65
+Jalan Cilinaya,08:10,1788,33.64,715.2,23,Selatan → Utara,Cerah,Siaga,62,1280,720,25,0.67,0.7
+Jalan Majapahit,11:00,431,14.49,107.75,29,Selatan → Utara,Hujan ringan,Siaga tinggi,83,1920,1080,14,0.86,0.39
+Jalan Bung Karno,08:00,1630,30.36,362.22,15,Selatan → Utara,Hujan lebat,Normal,88,1280,720,8,0.23,0.16
+Jalan Udayana,19:50,818,15.2,163.6,18,Timur → Barat,Berawan,Normal,93,1280,720,22,0.54,0.49
+Jalan Bung Karno,09:10,1290,12.51,286.67,8,Selatan → Utara,Berawan,Siaga tinggi,95,1280,720,11,0.93,0.86
+Jalan Pejanggik,22:50,563,13.06,175.94,8,Barat → Timur,Hujan ringan,Siaga,76,1920,1080,1,0.68,0.11
+Jalan Pejanggik,14:40,1082,34.06,338.12,28,Timur → Barat,Hujan lebat,Siaga tinggi,69,1920,1080,16,0.51,0.24
+Jalan Bung Karno,16:00,1564,22.13,347.56,33,Selatan → Utara,Berawan,Normal,71,1920,1080,18,0.35,0.27
+Jalan Bung Karno,13:10,734,20.15,163.11,19,Utara → Selatan,Hujan ringan,Siaga tinggi,42,1280,720,17,0.9,0.2
+Jalan Pendidikan,16:30,1692,24.05,564.0,30,Barat → Timur,Cerah,Warning,81,1280,720,16,0.68,0.26
+Jalan Udayana,10:30,637,22.48,127.4,23,Utara → Selatan,Cerah,Siaga tinggi,40,1920,1080,23,0.42,0.71
+Jalan Bung Karno,19:00,937,48.62,208.22,13,Barat → Timur,Hujan ringan,Warning,73,1920,1080,21,0.25,0.22
+Jalan Udayana,07:20,1466,25.47,293.2,23,Timur → Barat,Hujan ringan,Siaga,72,1280,720,10,0.87,0.19
+Jalan Majapahit,11:10,849,13.0,212.25,35,Timur → Barat,Berawan,Normal,42,640,360,1,0.79,0.29
+Jalan Cilinaya,18:00,1134,12.14,453.6,19,Timur → Barat,Berawan,Normal,64,640,360,13,0.79,0.11
+Jalan Udayana,14:40,629,31.61,125.8,35,Barat → Timur,Berawan,Siaga tinggi,91,1280,720,2,0.32,0.68
+Jalan Bung Karno,19:00,814,21.02,180.89,0,Barat → Timur,Hujan lebat,Siaga,81,640,360,23,0.27,0.51
+Jalan Pejanggik,22:10,1070,11.71,334.38,28,Timur → Barat,Berawan,Siaga,49,640,360,23,0.36,0.5
+Jalan Udayana,07:50,1040,38.61,208.0,20,Timur → Barat,Hujan ringan,Siaga,41,1920,1080,18,0.64,0.4
+Jalan Pejanggik,15:20,726,32.92,226.88,17,Barat → Timur,Berawan,Warning,90,1280,720,7,0.84,0.14
+Jalan Majapahit,17:10,1781,27.72,445.25,20,Timur → Barat,Berawan,Siaga,94,1920,1080,11,0.37,0.43
+Jalan Cilinaya,12:40,1196,20.5,478.4,0,Timur → Barat,Hujan ringan,Siaga tinggi,91,1280,720,11,0.25,0.33
+Jalan Majapahit,18:30,1357,10.9,339.25,17,Timur → Barat,Hujan lebat,Normal,75,640,360,19,0.89,0.49
+Jalan Udayana,06:50,733,14.12,146.6,23,Barat → Timur,Hujan lebat,Normal,73,1920,1080,24,0.51,0.31
+Jalan Majapahit,10:20,934,44.21,233.5,34,Barat → Timur,Hujan ringan,Siaga,56,640,360,14,0.5,0.73
+Jalan Pendidikan,14:00,883,25.82,294.33,14,Selatan → Utara,Hujan lebat,Siaga tinggi,82,1920,1080,15,0.86,0.34
+Jalan Bung Karno,13:10,857,43.99,190.44,11,Timur → Barat,Cerah,Warning,83,640,360,23,0.64,0.6
+Jalan Pejanggik,08:30,1037,35.15,324.06,14,Timur → Barat,Berawan,Normal,93,1920,1080,13,0.72,0.89
+Jalan Cilinaya,10:50,571,46.85,228.4,29,Timur → Barat,Cerah,Siaga,97,1920,1080,1,0.93,0.15
+Jalan Majapahit,22:20,712,8.28,178.0,23,Utara → Selatan,Cerah,Normal,40,1920,1080,25,0.67,0.6
+Jalan Pejanggik,15:20,701,27.31,219.06,14,Utara → Selatan,Hujan lebat,Siaga,77,1280,720,16,0.41,0.6
+Jalan Udayana,20:20,1036,45.64,207.2,25,Utara → Selatan,Hujan ringan,Siaga,63,1920,1080,20,0.99,0.61
+Jalan Majapahit,18:50,1067,45.94,266.75,20,Utara → Selatan,Hujan lebat,Normal,41,1920,1080,22,0.76,0.21
+Jalan Cilinaya,07:40,1040,15.6,416.0,29,Selatan → Utara,Hujan lebat,Siaga,40,1280,720,12,0.47,0.66
+Jalan Pejanggik,14:10,415,24.24,129.69,12,Timur → Barat,Hujan lebat,Warning,93,640,360,15,0.26,0.37
+Jalan Majapahit,09:20,1067,12.69,266.75,16,Barat → Timur,Cerah,Siaga,78,1920,1080,11,0.47,0.23
+Jalan Bung Karno,21:10,897,16.55,199.33,16,Utara → Selatan,Berawan,Warning,45,1280,720,22,0.48,0.53
+Jalan Cilinaya,17:50,1683,16.08,673.2,5,Barat → Timur,Cerah,Siaga,92,1280,720,25,0.4,0.55
+Jalan Udayana,07:10,1937,48.97,387.4,22,Utara → Selatan,Hujan lebat,Normal,51,1280,720,5,0.83,0.45
+Jalan Majapahit,10:40,903,13.87,225.75,22,Utara → Selatan,Hujan ringan,Normal,64,1280,720,21,0.97,0.15
+Jalan Pendidikan,11:40,455,30.67,151.67,20,Barat → Timur,Berawan,Siaga,63,640,360,6,0.98,0.41
+Jalan Cilinaya,11:30,703,39.29,281.2,17,Selatan → Utara,Hujan lebat,Warning,71,640,360,22,0.64,0.7
+Jalan Pendidikan,21:20,644,17.92,214.67,5,Timur → Barat,Cerah,Siaga tinggi,96,1920,1080,25,0.44,0.67
+Jalan Pejanggik,20:50,652,35.85,203.75,15,Utara → Selatan,Hujan ringan,Warning,75,1280,720,15,0.28,0.14
+Jalan Bung Karno,12:30,1010,40.19,224.44,16,Utara → Selatan,Berawan,Siaga,63,1280,720,13,0.69,0.4
+Jalan Udayana,13:10,908,40.09,181.6,11,Timur → Barat,Cerah,Normal,42,1920,1080,8,0.53,0.45
+Jalan Pejanggik,07:50,1842,9.72,575.62,18,Utara → Selatan,Hujan ringan,Siaga,96,1280,720,13,0.45,0.11
+Jalan Cilinaya,17:00,1421,43.1,568.4,24,Selatan → Utara,Cerah,Warning,85,1920,1080,18,0.63,0.82
+Jalan Bung Karno,15:40,902,15.54,200.44,38,Timur → Barat,Berawan,Normal,66,640,360,17,0.5,0.57
+Jalan Bung Karno,18:00,1873,14.38,416.22,21,Barat → Timur,Hujan lebat,Siaga tinggi,89,640,360,8,0.55,0.61
+Jalan Pejanggik,06:50,742,24.43,231.88,22,Timur → Barat,Cerah,Siaga tinggi,67,1280,720,2,0.61,0.64
+Jalan Cilinaya,09:20,1732,11.52,692.8,19,Utara → Selatan,Hujan lebat,Warning,90,640,360,1,0.35,0.85
+Jalan Majapahit,15:30,950,17.34,237.5,0,Barat → Timur,Hujan ringan,Siaga,56,640,360,12,0.76,0.55
+Jalan Cilinaya,15:40,873,41.78,349.2,19,Selatan → Utara,Berawan,Siaga,66,1280,720,1,0.49,0.87
+Jalan Majapahit,18:10,1937,18.1,484.25,20,Timur → Barat,Berawan,Warning,75,1280,720,17,0.44,0.32
+Jalan Pendidikan,11:10,376,39.65,125.33,44,Utara → Selatan,Hujan ringan,Siaga tinggi,51,1280,720,7,0.22,0.5
+Jalan Udayana,07:20,1173,13.23,234.6,18,Selatan → Utara,Hujan lebat,Siaga tinggi,82,1280,720,25,0.94,0.2
+Jalan Pendidikan,15:30,818,30.89,272.67,23,Selatan → Utara,Hujan ringan,Normal,65,1920,1080,19,0.47,0.69
+Jalan Pejanggik,09:10,1517,10.2,474.06,19,Utara → Selatan,Berawan,Normal,43,1920,1080,13,0.26,0.56
+Jalan Cilinaya,14:50,684,18.57,273.6,8,Timur → Barat,Hujan ringan,Siaga tinggi,99,1280,720,3,0.22,0.79
+Jalan Bung Karno,19:20,371,43.55,82.44,31,Utara → Selatan,Hujan lebat,Warning,60,1280,720,3,0.22,0.54
+Jalan Cilinaya,16:30,1506,36.48,602.4,27,Timur → Barat,Hujan lebat,Siaga tinggi,77,640,360,3,1.0,0.64
+Jalan Pejanggik,17:10,1979,9.37,618.44,27,Timur → Barat,Hujan ringan,Normal,94,1920,1080,14,0.32,0.47
+Jalan Pendidikan,06:00,787,17.23,262.33,10,Barat → Timur,Cerah,Warning,66,640,360,1,0.42,0.64
+Jalan Pendidikan,09:40,1439,41.54,479.67,34,Utara → Selatan,Berawan,Normal,72,640,360,9,0.44,0.76
+Jalan Cilinaya,19:30,915,42.26,366.0,5,Barat → Timur,Hujan ringan,Siaga,61,1920,1080,22,0.51,0.72
+Jalan Cilinaya,17:20,1350,39.44,540.0,25,Utara → Selatan,Cerah,Normal,100,1280,720,8,0.22,0.35
+Jalan Udayana,06:30,494,19.25,98.8,41,Barat → Timur,Berawan,Siaga tinggi,93,1280,720,11,0.32,0.88
+Jalan Bung Karno,22:10,908,19.26,201.78,10,Utara → Selatan,Hujan lebat,Normal,79,1280,720,9,0.45,0.17
+Jalan Majapahit,13:30,357,46.29,89.25,14,Barat → Timur,Hujan lebat,Warning,72,1280,720,18,0.7,0.62
+Jalan Udayana,13:30,471,47.59,94.2,20,Timur → Barat,Cerah,Siaga tinggi,43,1280,720,6,0.94,0.22
+Jalan Cilinaya,17:40,1794,21.63,717.6,14,Timur → Barat,Berawan,Warning,90,640,360,23,0.89,0.51
+Jalan Pejanggik,15:50,1141,38.88,356.56,4,Barat → Timur,Berawan,Siaga,93,640,360,3,0.58,0.52
+Jalan Bung Karno,21:40,703,34.68,156.22,20,Barat → Timur,Hujan ringan,Normal,91,1280,720,19,0.37,0.4
+Jalan Pejanggik,08:10,1960,27.24,612.5,9,Utara → Selatan,Hujan ringan,Warning,100,1920,1080,12,0.94,0.24
+Jalan Udayana,20:40,521,30.95,104.2,24,Barat → Timur,Hujan ringan,Siaga,85,1920,1080,8,0.96,0.55
+Jalan Cilinaya,18:00,1530,22.41,612.0,10,Barat → Timur,Hujan ringan,Normal,51,640,360,19,0.51,0.72
+Jalan Pendidikan,06:50,411,41.63,137.0,35,Barat → Timur,Hujan ringan,Warning,50,640,360,3,0.93,0.47
+Jalan Cilinaya,19:30,587,19.43,234.8,12,Utara → Selatan,Hujan ringan,Siaga,49,640,360,25,0.72,0.17
+Jalan Udayana,07:50,1689,24.69,337.8,16,Utara → Selatan,Hujan ringan,Siaga,63,1920,1080,17,0.41,0.44
+Jalan Pendidikan,06:10,757,14.54,252.33,28,Selatan → Utara,Cerah,Normal,74,1920,1080,20,0.65,0.51
+Jalan Udayana,09:40,1938,38.93,387.6,7,Selatan → Utara,Berawan,Warning,77,1280,720,20,0.86,0.9
+Jalan Pendidikan,22:30,785,16.39,261.67,22,Utara → Selatan,Hujan lebat,Siaga,82,1920,1080,22,0.28,0.24
+Jalan Udayana,15:20,474,12.73,94.8,33,Selatan → Utara,Hujan ringan,Siaga,55,1920,1080,9,0.55,0.15
+Jalan Bung Karno,14:10,558,47.12,124.0,3,Timur → Barat,Hujan lebat,Normal,88,640,360,13,0.42,0.22
+Jalan Majapahit,17:20,1966,37.34,491.5,21,Selatan → Utara,Hujan lebat,Normal,97,1920,1080,12,0.8,0.13
+Jalan Pejanggik,09:50,1976,41.51,617.5,22,Barat → Timur,Hujan ringan,Warning,58,1280,720,1,0.55,0.71
+Jalan Cilinaya,21:00,1000,44.18,400.0,27,Timur → Barat,Hujan lebat,Siaga,95,1280,720,10,0.85,0.82
+Jalan Majapahit,20:10,1095,30.52,273.75,7,Timur → Barat,Hujan lebat,Warning,89,1920,1080,13,0.89,0.18
+Jalan Bung Karno,18:50,1256,8.65,279.11,6,Timur → Barat,Cerah,Warning,63,1280,720,20,0.98,0.61
+Jalan Udayana,07:00,1212,17.77,242.4,25,Barat → Timur,Hujan ringan,Warning,75,1920,1080,2,0.33,0.41
+Jalan Pendidikan,12:50,357,16.71,119.0,22,Barat → Timur,Hujan ringan,Siaga tinggi,84,640,360,4,0.36,0.85
+Jalan Pendidikan,11:00,846,22.62,282.0,22,Selatan → Utara,Hujan ringan,Normal,67,640,360,8,0.65,0.62
+Jalan Majapahit,10:20,817,34.55,204.25,23,Barat → Timur,Hujan lebat,Siaga tinggi,74,1920,1080,17,0.74,0.39
+Jalan Pendidikan,11:50,842,29.26,280.67,13,Utara → Selatan,Hujan lebat,Warning,55,1920,1080,19,0.64,0.55
+Jalan Cilinaya,16:20,1480,21.63,592.0,22,Timur → Barat,Berawan,Warning,95,1280,720,23,0.93,0.24
+Jalan Pendidikan,08:10,1175,40.52,391.67,22,Barat → Timur,Hujan lebat,Siaga,50,1280,720,15,0.93,0.78
+Jalan Pendidikan,09:20,1537,19.93,512.33,12,Selatan → Utara,Berawan,Warning,87,640,360,25,0.41,0.16
+Jalan Pejanggik,13:30,325,31.8,101.56,38,Utara → Selatan,Berawan,Siaga,53,1280,720,2,0.42,0.52
+Jalan Pendidikan,19:00,980,43.76,326.67,24,Utara → Selatan,Hujan ringan,Siaga,93,1280,720,6,0.67,0.39
+Jalan Pendidikan,07:00,1402,26.49,467.33,8,Selatan → Utara,Hujan lebat,Normal,45,1280,720,8,0.89,0.33
+Jalan Majapahit,16:10,1998,36.94,499.5,26,Timur → Barat,Cerah,Siaga tinggi,76,640,360,6,0.73,0.58
+Jalan Cilinaya,14:00,771,19.47,308.4,10,Selatan → Utara,Hujan lebat,Warning,100,640,360,16,0.57,0.87
+Jalan Udayana,20:00,529,12.65,105.8,27,Timur → Barat,Cerah,Siaga tinggi,63,1920,1080,7,0.78,0.33
+Jalan Udayana,11:20,1155,32.61,231.0,31,Utara → Selatan,Hujan lebat,Siaga tinggi,73,640,360,15,0.82,0.63
+Jalan Majapahit,14:10,1080,32.95,270.0,11,Selatan → Utara,Hujan ringan,Siaga,58,1280,720,6,0.92,0.47
+Jalan Bung Karno,14:30,508,23.18,112.89,29,Timur → Barat,Hujan ringan,Siaga,66,640,360,15,0.38,0.43
+Jalan Cilinaya,12:10,728,35.92,291.2,24,Selatan → Utara,Hujan ringan,Siaga,52,1280,720,9,0.35,0.4
+Jalan Cilinaya,11:10,579,40.76,231.6,28,Selatan → Utara,Hujan lebat,Siaga,68,640,360,5,0.54,0.65
+Jalan Bung Karno,20:40,434,47.57,96.44,38,Utara → Selatan,Cerah,Normal,44,1280,720,13,0.82,0.26
+Jalan Cilinaya,21:30,788,32.12,315.2,17,Utara → Selatan,Hujan lebat,Warning,74,640,360,22,0.73,0.86
+Jalan Pendidikan,06:30,839,43.28,279.67,12,Selatan → Utara,Hujan lebat,Siaga,53,640,360,7,0.82,0.29
+Jalan Pejanggik,07:50,1038,28.94,324.38,11,Selatan → Utara,Hujan lebat,Siaga,69,640,360,19,0.33,0.56
+Jalan Bung Karno,16:50,1584,29.97,352.0,11,Utara → Selatan,Hujan lebat,Siaga tinggi,81,640,360,2,0.29,0.49
+Jalan Cilinaya,08:10,1529,33.19,611.6,19,Barat → Timur,Hujan ringan,Siaga tinggi,83,1920,1080,12,0.26,0.87
+Jalan Udayana,18:00,1124,27.13,224.8,23,Timur → Barat,Cerah,Siaga tinggi,75,640,360,18,0.92,0.68
+Jalan Udayana,17:00,1690,24.89,338.0,22,Selatan → Utara,Cerah,Warning,58,1920,1080,23,0.89,0.68
+Jalan Udayana,19:30,439,23.45,87.8,28,Barat → Timur,Hujan ringan,Normal,65,640,360,1,0.89,0.16
+Jalan Pendidikan,20:00,649,8.18,216.33,20,Barat → Timur,Berawan,Normal,99,640,360,1,0.94,0.89
+Jalan Bung Karno,19:30,394,37.6,87.56,34,Utara → Selatan,Hujan ringan,Siaga,60,1280,720,13,0.37,0.54
+Jalan Bung Karno,21:30,1155,23.37,256.67,17,Barat → Timur,Hujan ringan,Siaga,60,1280,720,19,0.63,0.67
+Jalan Cilinaya,17:20,1775,43.88,710.0,47,Barat → Timur,Hujan ringan,Warning,66,640,360,17,0.7,0.29
+Jalan Pendidikan,19:30,442,30.65,147.33,26,Barat → Timur,Cerah,Siaga,91,640,360,23,0.82,0.2
+Jalan Udayana,07:50,1280,35.77,256.0,11,Timur → Barat,Hujan ringan,Siaga,92,640,360,14,1.0,0.88
+Jalan Pendidikan,12:50,1089,28.65,363.0,9,Timur → Barat,Hujan ringan,Siaga,81,1280,720,5,0.82,0.68
+Jalan Majapahit,12:30,983,46.89,245.75,24,Selatan → Utara,Cerah,Warning,81,640,360,17,0.42,0.75
+Jalan Udayana,17:50,1521,48.69,304.2,17,Utara → Selatan,Hujan ringan,Normal,87,640,360,25,0.84,0.71
+Jalan Pendidikan,18:00,1951,30.94,650.33,27,Barat → Timur,Cerah,Siaga tinggi,88,1920,1080,8,0.87,0.67
+Jalan Bung Karno,14:20,966,36.73,214.67,24,Utara → Selatan,Cerah,Siaga,56,1920,1080,22,0.77,0.43
+Jalan Pendidikan,18:50,1708,22.18,569.33,19,Selatan → Utara,Hujan lebat,Siaga,86,640,360,18,0.46,0.35
+Jalan Bung Karno,14:20,328,25.75,72.89,11,Timur → Barat,Cerah,Normal,81,1920,1080,21,0.49,0.31
+Jalan Pendidikan,10:40,420,18.77,140.0,4,Timur → Barat,Hujan ringan,Siaga tinggi,50,1280,720,25,0.34,0.82
+Jalan Udayana,09:20,1959,12.21,391.8,15,Barat → Timur,Hujan ringan,Warning,93,1920,1080,17,0.75,0.85
+Jalan Udayana,06:50,466,28.41,93.2,28,Timur → Barat,Hujan lebat,Siaga tinggi,44,1920,1080,17,0.21,0.68
+Jalan Bung Karno,14:20,893,26.9,198.44,22,Timur → Barat,Hujan ringan,Normal,90,1920,1080,15,0.34,0.2
+Jalan Bung Karno,14:50,740,14.38,164.44,7,Selatan → Utara,Hujan lebat,Siaga tinggi,96,1280,720,19,0.76,0.39
+Jalan Pejanggik,21:20,966,34.11,301.88,21,Selatan → Utara,Berawan,Normal,43,640,360,13,0.34,0.46
+Jalan Pendidikan,06:00,330,10.42,110.0,23,Timur → Barat,Hujan lebat,Warning,100,1280,720,16,0.58,0.56
+Jalan Cilinaya,13:10,603,45.84,241.2,11,Selatan → Utara,Hujan ringan,Normal,83,1280,720,18,0.57,0.61
+Jalan Cilinaya,10:20,863,10.72,345.2,21,Utara → Selatan,Berawan,Normal,49,1920,1080,8,0.37,0.63
+Jalan Pendidikan,22:00,1095,15.08,365.0,20,Barat → Timur,Hujan ringan,Normal,78,1920,1080,3,0.83,0.65
+Jalan Pejanggik,09:00,1060,11.85,331.25,8,Barat → Timur,Berawan,Siaga tinggi,68,1920,1080,7,0.36,0.12
+Jalan Majapahit,11:50,961,21.77,240.25,23,Utara → Selatan,Berawan,Normal,54,1920,1080,22,0.51,0.37
+Jalan Pendidikan,16:50,1610,19.9,536.67,25,Utara → Selatan,Cerah,Warning,99,640,360,16,0.88,0.35
+Jalan Majapahit,12:00,970,35.87,242.5,30,Timur → Barat,Cerah,Siaga tinggi,47,640,360,7,0.35,0.7
+Jalan Majapahit,15:40,873,34.08,218.25,30,Selatan → Utara,Hujan lebat,Warning,61,640,360,6,0.41,0.45
+Jalan Udayana,09:10,1028,48.73,205.6,6,Selatan → Utara,Cerah,Siaga,69,1920,1080,11,0.82,0.46
+Jalan Cilinaya,09:20,1529,21.04,611.6,10,Utara → Selatan,Hujan lebat,Warning,55,1920,1080,13,0.24,0.35
+Jalan Bung Karno,21:10,1112,44.36,247.11,25,Selatan → Utara,Hujan lebat,Normal,87,1920,1080,13,0.57,0.77
+Jalan Udayana,14:10,828,29.52,165.6,25,Utara → Selatan,Hujan ringan,Warning,70,640,360,8,0.95,0.15
+Jalan Majapahit,10:00,364,49.12,91.0,25,Selatan → Utara,Cerah,Normal,67,640,360,12,0.21,0.56
+Jalan Cilinaya,20:40,1063,14.23,425.2,58,Utara → Selatan,Hujan ringan,Warning,49,1920,1080,14,0.81,0.56
+Jalan Majapahit,18:20,1008,31.4,252.0,25,Utara → Selatan,Hujan lebat,Siaga,56,1920,1080,8,0.44,0.73
+Jalan Majapahit,12:40,1036,27.61,259.0,31,Barat → Timur,Hujan ringan,Siaga,75,1280,720,6,0.89,0.18
+Jalan Pendidikan,21:30,776,9.37,258.67,29,Barat → Timur,Berawan,Normal,71,640,360,1,0.79,0.78
+Jalan Pendidikan,22:00,479,35.48,159.67,26,Timur → Barat,Hujan ringan,Normal,45,640,360,1,0.88,0.8
+Jalan Pendidikan,11:20,1165,17.79,388.33,16,Selatan → Utara,Cerah,Siaga,75,640,360,3,0.59,0.15
+Jalan Pejanggik,16:30,1537,37.56,480.31,27,Selatan → Utara,Berawan,Siaga tinggi,98,640,360,1,0.51,0.77
+Jalan Pendidikan,19:00,730,36.71,243.33,12,Selatan → Utara,Cerah,Siaga tinggi,68,1280,720,8,0.61,0.39
+Jalan Pejanggik,17:00,1559,9.66,487.19,17,Selatan → Utara,Hujan lebat,Siaga tinggi,82,1920,1080,23,0.61,0.31
+Jalan Pejanggik,06:20,335,29.75,104.69,15,Timur → Barat,Cerah,Normal,86,1280,720,15,0.62,0.22
+Jalan Udayana,20:20,549,38.74,109.8,20,Timur → Barat,Berawan,Warning,58,640,360,3,0.61,0.1
+Jalan Udayana,07:30,1061,47.07,212.2,43,Barat → Timur,Hujan lebat,Siaga,93,1920,1080,7,0.59,0.82
+Jalan Udayana,12:10,369,35.24,73.8,1,Barat → Timur,Hujan ringan,Warning,55,640,360,10,0.29,0.7
+Jalan Bung Karno,19:00,805,35.4,178.89,26,Utara → Selatan,Hujan lebat,Siaga,78,1920,1080,24,0.24,0.34
+Jalan Pendidikan,19:50,919,35.49,306.33,3,Selatan → Utara,Berawan,Warning,91,640,360,13,0.63,0.36
+Jalan Majapahit,11:30,999,23.81,249.75,15,Barat → Timur,Cerah,Siaga tinggi,98,1280,720,2,0.29,0.24
+Jalan Majapahit,20:30,499,33.14,124.75,30,Barat → Timur,Berawan,Siaga,98,1280,720,25,0.41,0.29
+Jalan Pendidikan,22:00,767,35.73,255.67,20,Utara → Selatan,Berawan,Warning,96,1920,1080,15,0.29,0.37
+Jalan Pendidikan,07:40,1832,22.33,610.67,9,Utara → Selatan,Hujan ringan,Warning,47,1280,720,10,0.29,0.74
+Jalan Cilinaya,15:00,968,10.02,387.2,12,Barat → Timur,Cerah,Siaga tinggi,82,1920,1080,1,0.48,0.9
+Jalan Cilinaya,21:50,722,9.95,288.8,26,Utara → Selatan,Hujan lebat,Warning,98,1280,720,8,0.53,0.23
+Jalan Udayana,12:20,638,27.86,127.6,12,Utara → Selatan,Cerah,Normal,43,640,360,12,0.43,0.17
+Jalan Pejanggik,13:40,793,16.62,247.81,22,Utara → Selatan,Cerah,Siaga,78,640,360,1,0.84,0.84
+Jalan Cilinaya,11:30,1139,9.65,455.6,20,Barat → Timur,Cerah,Siaga,56,1920,1080,9,0.87,0.67
+Jalan Udayana,19:50,1134,29.11,226.8,13,Timur → Barat,Hujan ringan,Normal,49,1920,1080,16,0.98,0.15
+Jalan Pendidikan,11:50,300,45.86,100.0,41,Barat → Timur,Hujan ringan,Warning,48,1280,720,17,0.83,0.17
+Jalan Bung Karno,09:30,1649,16.24,366.44,26,Utara → Selatan,Hujan lebat,Normal,46,1920,1080,3,0.51,0.19
+Jalan Majapahit,10:40,1064,17.18,266.0,0,Timur → Barat,Cerah,Warning,56,1280,720,10,0.93,0.47
+Jalan Pendidikan,08:20,1307,11.53,435.67,21,Utara → Selatan,Berawan,Normal,52,1920,1080,3,0.29,0.53
+Jalan Bung Karno,14:50,430,18.24,95.56,13,Selatan → Utara,Berawan,Siaga tinggi,82,640,360,19,0.55,0.75
+Jalan Cilinaya,16:10,1738,43.21,695.2,28,Timur → Barat,Berawan,Warning,69,640,360,19,0.92,0.56
+Jalan Majapahit,10:50,728,34.45,182.0,12,Timur → Barat,Cerah,Siaga tinggi,54,1920,1080,24,0.76,0.34
+Jalan Pendidikan,20:40,879,24.24,293.0,18,Timur → Barat,Hujan lebat,Normal,99,1920,1080,8,0.51,0.6
+Jalan Cilinaya,08:10,1851,39.32,740.4,25,Timur → Barat,Hujan lebat,Warning,57,1920,1080,6,0.84,0.4
+Jalan Udayana,22:00,522,10.69,104.4,28,Timur → Barat,Hujan lebat,Normal,75,1280,720,10,0.5,0.1
+Jalan Cilinaya,19:20,376,20.27,150.4,7,Barat → Timur,Hujan ringan,Siaga,63,640,360,5,0.43,0.2
+Jalan Udayana,08:20,1541,25.96,308.2,16,Timur → Barat,Cerah,Warning,47,640,360,2,0.21,0.82
+Jalan Majapahit,12:20,636,24.25,159.0,15,Selatan → Utara,Cerah,Siaga tinggi,90,1280,720,24,0.55,0.83
+Jalan Pendidikan,17:00,1246,28.7,415.33,13,Timur → Barat,Hujan ringan,Siaga,74,1280,720,14,0.87,0.65
+Jalan Pendidikan,06:50,326,16.16,108.67,37,Barat → Timur,Berawan,Warning,59,640,360,20,0.29,0.21
+Jalan Cilinaya,22:20,545,48.48,218.0,24,Timur → Barat,Hujan lebat,Siaga tinggi,50,1920,1080,20,0.62,0.42
+Jalan Udayana,17:20,1865,17.2,373.0,7,Barat → Timur,Hujan lebat,Siaga tinggi,96,1280,720,13,0.43,0.2
+Jalan Cilinaya,11:40,672,42.96,268.8,29,Timur → Barat,Hujan lebat,Normal,63,1280,720,13,0.78,0.41
+Jalan Majapahit,19:10,890,12.34,222.5,41,Barat → Timur,Hujan lebat,Normal,75,640,360,8,0.99,0.88
+Jalan Pendidikan,19:20,800,49.67,266.67,30,Selatan → Utara,Hujan ringan,Warning,44,1920,1080,20,0.99,0.38
+Jalan Udayana,17:00,1657,11.7,331.4,4,Barat → Timur,Hujan ringan,Siaga,98,1920,1080,5,0.4,0.14
+Jalan Pejanggik,17:10,1550,24.52,484.38,15,Selatan → Utara,Berawan,Siaga tinggi,81,1920,1080,25,0.51,0.54
+Jalan Pejanggik,21:40,945,14.98,295.31,32,Selatan → Utara,Hujan ringan,Warning,91,1280,720,15,0.61,0.9
+Jalan Bung Karno,09:20,1680,49.63,373.33,12,Timur → Barat,Hujan ringan,Siaga tinggi,43,1280,720,7,0.63,0.22
+Jalan Majapahit,21:10,395,13.57,98.75,24,Timur → Barat,Hujan ringan,Siaga tinggi,66,1280,720,24,0.86,0.56
+Jalan Pendidikan,12:30,796,45.58,265.33,27,Barat → Timur,Hujan ringan,Siaga,90,640,360,15,0.98,0.35
+Jalan Pejanggik,19:50,919,23.7,287.19,10,Barat → Timur,Berawan,Normal,41,1920,1080,5,0.38,0.63
+Jalan Bung Karno,10:00,1174,45.38,260.89,19,Selatan → Utara,Berawan,Siaga,97,1280,720,13,0.54,0.74
+Jalan Pejanggik,07:00,1220,14.63,381.25,0,Selatan → Utara,Cerah,Siaga tinggi,61,640,360,15,0.91,0.63
+Jalan Pendidikan,12:50,430,40.21,143.33,9,Barat → Timur,Berawan,Siaga tinggi,48,1920,1080,13,0.68,0.15
+Jalan Cilinaya,21:20,649,37.29,259.6,17,Timur → Barat,Hujan lebat,Siaga,83,640,360,10,0.29,0.77
+Jalan Pendidikan,08:30,1056,21.93,352.0,7,Barat → Timur,Berawan,Warning,42,640,360,14,0.95,0.57
+Jalan Majapahit,11:20,994,30.44,248.5,36,Utara → Selatan,Hujan ringan,Siaga tinggi,97,1280,720,22,0.41,0.5
+Jalan Pendidikan,17:40,1202,21.36,400.67,5,Timur → Barat,Hujan lebat,Normal,71,1920,1080,19,0.7,0.49
+Jalan Cilinaya,16:40,1553,46.34,621.2,15,Selatan → Utara,Berawan,Warning,94,1920,1080,23,0.82,0.42
+Jalan Udayana,20:30,991,9.21,198.2,21,Timur → Barat,Hujan ringan,Siaga,81,1920,1080,7,0.56,0.62
+Jalan Bung Karno,20:20,928,36.22,206.22,34,Selatan → Utara,Hujan ringan,Siaga,83,640,360,20,1.0,0.27
+Jalan Cilinaya,20:30,880,31.32,352.0,5,Timur → Barat,Hujan lebat,Siaga tinggi,97,1920,1080,12,0.24,0.38
+Jalan Cilinaya,12:20,322,13.84,128.8,31,Utara → Selatan,Hujan ringan,Normal,50,1920,1080,1,0.47,0.1
+Jalan Majapahit,18:00,1346,40.28,336.5,20,Selatan → Utara,Hujan lebat,Siaga tinggi,100,1920,1080,23,0.97,0.63
+Jalan Udayana,20:30,719,12.73,143.8,10,Barat → Timur,Hujan ringan,Normal,48,1920,1080,3,0.42,0.85
+Jalan Pendidikan,17:00,1661,34.39,553.67,24,Selatan → Utara,Hujan lebat,Siaga,81,1280,720,17,0.66,0.69
+Jalan Majapahit,20:00,664,43.93,166.0,21,Utara → Selatan,Berawan,Warning,79,1280,720,25,0.55,0.8
+Jalan Bung Karno,06:20,878,12.76,195.11,13,Utara → Selatan,Cerah,Siaga,78,1920,1080,15,0.48,0.37
+Jalan Cilinaya,06:40,637,28.29,254.8,20,Timur → Barat,Berawan,Siaga tinggi,93,1280,720,23,0.22,0.86
+Jalan Majapahit,08:00,1021,42.9,255.25,16,Selatan → Utara,Berawan,Siaga tinggi,93,640,360,13,0.5,0.43
+Jalan Pendidikan,10:40,571,37.48,190.33,21,Selatan → Utara,Hujan lebat,Warning,73,1920,1080,24,0.72,0.17
+Jalan Pejanggik,08:40,1487,26.27,464.69,26,Timur → Barat,Berawan,Siaga,47,640,360,17,0.54,0.85
+Jalan Pejanggik,21:50,452,32.99,141.25,35,Timur → Barat,Berawan,Siaga,83,1920,1080,25,0.54,0.71
+Jalan Udayana,09:30,1128,41.6,225.6,7,Selatan → Utara,Hujan ringan,Siaga,99,1920,1080,15,0.66,0.85
+Jalan Pendidikan,12:40,985,23.16,328.33,41,Utara → Selatan,Berawan,Warning,74,640,360,13,0.3,0.76
+Jalan Cilinaya,13:20,856,36.23,342.4,0,Barat → Timur,Hujan ringan,Warning,89,1920,1080,22,0.95,0.66
+Jalan Majapahit,16:20,1495,13.72,373.75,18,Timur → Barat,Hujan ringan,Warning,50,1280,720,7,0.95,0.7
+Jalan Pendidikan,11:50,726,25.19,242.0,25,Selatan → Utara,Hujan lebat,Siaga tinggi,40,1920,1080,6,0.62,0.81
+Jalan Pendidikan,17:20,1849,9.83,616.33,22,Timur → Barat,Berawan,Siaga,57,1920,1080,24,0.65,0.3
+Jalan Udayana,11:20,622,13.58,124.4,13,Timur → Barat,Cerah,Siaga,75,1280,720,6,0.74,0.76
+Jalan Udayana,06:00,517,35.37,103.4,17,Utara → Selatan,Hujan lebat,Warning,86,1280,720,7,0.39,0.47
+Jalan Udayana,11:40,694,32.34,138.8,15,Timur → Barat,Cerah,Normal,53,1920,1080,11,0.71,0.71
+Jalan Pejanggik,22:00,966,35.07,301.88,14,Barat → Timur,Hujan lebat,Warning,44,1920,1080,15,0.54,0.86
+Jalan Pendidikan,10:40,1192,21.2,397.33,28,Barat → Timur,Hujan lebat,Siaga,68,1280,720,3,0.92,0.45
+Jalan Pejanggik,14:00,685,39.14,214.06,23,Barat → Timur,Cerah,Normal,54,640,360,13,0.7,0.55
+Jalan Pendidikan,06:00,347,20.95,115.67,13,Barat → Timur,Cerah,Warning,50,1920,1080,4,0.44,0.46
+Jalan Pejanggik,07:40,1775,34.67,554.69,28,Utara → Selatan,Cerah,Siaga,68,1280,720,8,0.38,0.69
+Jalan Udayana,09:20,1389,16.36,277.8,23,Timur → Barat,Cerah,Normal,68,1920,1080,17,0.84,0.72
+Jalan Pejanggik,12:20,625,11.38,195.31,28,Timur → Barat,Hujan lebat,Siaga,41,640,360,24,0.53,0.43
+Jalan Pejanggik,11:20,466,10.46,145.62,26,Timur → Barat,Hujan ringan,Warning,97,1920,1080,11,0.54,0.8
+Jalan Bung Karno,14:20,949,43.29,210.89,11,Timur → Barat,Hujan ringan,Normal,89,1280,720,1,0.26,0.52
+Jalan Majapahit,16:30,1088,36.87,272.0,14,Utara → Selatan,Cerah,Warning,74,640,360,11,0.83,0.17
+Jalan Udayana,21:30,686,19.56,137.2,27,Utara → Selatan,Hujan ringan,Siaga tinggi,84,640,360,12,0.78,0.42
+Jalan Cilinaya,15:30,1099,23.91,439.6,26,Utara → Selatan,Berawan,Warning,81,640,360,11,0.49,0.18
+Jalan Bung Karno,17:20,1655,39.78,367.78,19,Selatan → Utara,Hujan lebat,Siaga tinggi,56,1920,1080,25,0.76,0.64
+Jalan Bung Karno,16:30,1367,25.23,303.78,21,Timur → Barat,Berawan,Siaga,77,1280,720,17,0.74,0.88
+Jalan Pendidikan,19:00,738,28.65,246.0,32,Selatan → Utara,Cerah,Normal,52,640,360,13,0.63,0.59
+Jalan Cilinaya,18:00,1378,22.64,551.2,14,Selatan → Utara,Hujan ringan,Normal,98,1920,1080,9,0.8,0.68
+Jalan Pendidikan,22:30,736,17.53,245.33,25,Selatan → Utara,Berawan,Normal,74,1920,1080,5,0.3,0.81
+Jalan Pejanggik,21:10,897,9.29,280.31,17,Utara → Selatan,Berawan,Siaga tinggi,44,1280,720,21,0.34,0.19
+Jalan Udayana,15:50,889,44.7,177.8,17,Barat → Timur,Berawan,Normal,64,640,360,18,0.7,0.9
+Jalan Cilinaya,20:10,1154,48.21,461.6,30,Timur → Barat,Hujan lebat,Siaga tinggi,63,1280,720,14,0.63,0.71
+Jalan Udayana,06:30,914,30.71,182.8,28,Timur → Barat,Cerah,Siaga,65,1920,1080,24,0.45,0.35
+Jalan Pejanggik,16:00,1741,44.88,544.06,28,Barat → Timur,Hujan ringan,Siaga,42,1920,1080,14,0.27,0.6
+Jalan Pendidikan,09:40,1991,41.11,663.67,33,Barat → Timur,Berawan,Normal,89,640,360,1,0.87,0.84
+Jalan Cilinaya,21:20,798,9.52,319.2,20,Barat → Timur,Hujan lebat,Warning,48,640,360,3,0.27,0.18
+Jalan Bung Karno,21:40,613,30.77,136.22,26,Selatan → Utara,Berawan,Siaga,82,640,360,7,0.9,0.55
+Jalan Pendidikan,18:30,1804,17.13,601.33,16,Barat → Timur,Cerah,Siaga,63,1280,720,2,0.85,0.44
+Jalan Pejanggik,11:40,614,18.83,191.88,23,Utara → Selatan,Hujan lebat,Siaga,49,1280,720,7,0.67,0.35
+Jalan Bung Karno,18:40,1901,32.9,422.44,18,Timur → Barat,Berawan,Normal,75,1920,1080,15,0.66,0.18
+Jalan Pendidikan,17:30,1625,49.6,541.67,20,Barat → Timur,Berawan,Siaga,42,1280,720,21,0.53,0.8
+Jalan Pejanggik,06:30,814,49.41,254.38,25,Barat → Timur,Cerah,Siaga tinggi,71,1280,720,12,0.72,0.7
+Jalan Pejanggik,16:50,1648,40.69,515.0,11,Barat → Timur,Berawan,Warning,51,1920,1080,15,0.83,0.83
+Jalan Bung Karno,21:20,664,29.83,147.56,40,Utara → Selatan,Berawan,Siaga tinggi,64,1920,1080,1,0.99,0.2
+Jalan Majapahit,20:00,1194,20.1,298.5,9,Timur → Barat,Hujan lebat,Warning,83,1920,1080,10,0.37,0.51
+Jalan Cilinaya,14:40,533,42.47,213.2,7,Timur → Barat,Hujan ringan,Normal,83,640,360,10,0.25,0.61
+Jalan Pejanggik,22:30,325,35.77,101.56,31,Barat → Timur,Berawan,Normal,47,1920,1080,4,0.51,0.15
+Jalan Pendidikan,16:50,1875,45.52,625.0,27,Timur → Barat,Hujan ringan,Normal,56,1920,1080,10,0.42,0.21
+Jalan Cilinaya,11:30,305,41.82,122.0,26,Timur → Barat,Hujan lebat,Siaga tinggi,69,1920,1080,17,0.71,0.32
+Jalan Majapahit,17:10,1717,17.01,429.25,26,Selatan → Utara,Hujan ringan,Siaga,44,1280,720,11,0.68,0.29
+Jalan Pendidikan,18:00,1335,43.63,445.0,19,Utara → Selatan,Hujan lebat,Siaga tinggi,81,1920,1080,14,0.25,0.56
+Jalan Pejanggik,18:10,1903,49.93,594.69,11,Barat → Timur,Hujan lebat,Warning,90,1280,720,12,0.5,0.61
+Jalan Majapahit,10:40,767,8.48,191.75,20,Selatan → Utara,Hujan lebat,Normal,80,1280,720,3,0.42,0.75
+Jalan Pendidikan,22:00,527,31.12,175.67,13,Barat → Timur,Cerah,Siaga,41,1920,1080,2,0.38,0.21
+Jalan Pendidikan,22:40,486,9.34,162.0,29,Utara → Selatan,Hujan ringan,Warning,71,1280,720,14,0.55,0.81
+Jalan Cilinaya,14:20,1134,25.78,453.6,18,Selatan → Utara,Cerah,Siaga,47,1280,720,13,0.95,0.26
+Jalan Pejanggik,16:00,1261,26.44,394.06,11,Selatan → Utara,Berawan,Siaga tinggi,92,1920,1080,17,0.96,0.53
+Jalan Udayana,21:20,836,14.65,167.2,16,Selatan → Utara,Berawan,Warning,56,640,360,22,0.24,0.47
+Jalan Bung Karno,17:30,1637,35.21,363.78,24,Timur → Barat,Hujan ringan,Siaga,79,1280,720,3,0.33,0.46
+Jalan Cilinaya,12:20,400,48.26,160.0,14,Timur → Barat,Hujan lebat,Normal,42,1920,1080,19,0.94,0.23
+Jalan Udayana,16:00,1941,11.49,388.2,11,Utara → Selatan,Berawan,Siaga,68,1920,1080,6,0.22,0.29
+Jalan Udayana,08:00,1035,38.17,207.0,22,Selatan → Utara,Hujan ringan,Warning,98,640,360,24,0.99,0.16
+Jalan Udayana,20:40,578,45.27,115.6,22,Barat → Timur,Berawan,Siaga,48,1920,1080,18,0.23,0.74
+Jalan Bung Karno,17:30,1096,45.58,243.56,14,Selatan → Utara,Berawan,Siaga,85,1280,720,9,0.34,0.18
+Jalan Cilinaya,06:30,524,34.99,209.6,15,Utara → Selatan,Hujan ringan,Siaga tinggi,65,1920,1080,4,0.47,0.64
+Jalan Cilinaya,10:00,337,41.21,134.8,22,Timur → Barat,Cerah,Normal,75,1920,1080,21,0.39,0.82
+Jalan Pendidikan,10:50,826,30.89,275.33,5,Utara → Selatan,Hujan lebat,Siaga tinggi,70,1920,1080,5,0.52,0.8
+Jalan Cilinaya,13:20,527,33.87,210.8,5,Timur → Barat,Hujan lebat,Warning,93,1920,1080,7,0.22,0.58
+Jalan Udayana,10:10,622,31.12,124.4,12,Timur → Barat,Cerah,Siaga tinggi,67,1920,1080,8,0.55,0.39
+Jalan Bung Karno,18:20,1365,15.64,303.33,17,Barat → Timur,Hujan lebat,Normal,51,1280,720,22,0.65,0.42
+Jalan Pendidikan,10:50,774,16.81,258.0,23,Barat → Timur,Cerah,Warning,88,640,360,9,0.45,0.56
+Jalan Bung Karno,17:40,1947,10.55,432.67,34,Utara → Selatan,Hujan ringan,Warning,59,640,360,10,0.94,0.85
+Jalan Majapahit,12:50,679,30.29,169.75,28,Barat → Timur,Cerah,Normal,92,1280,720,1,0.88,0.74
+Jalan Udayana,16:30,1260,47.72,252.0,18,Timur → Barat,Hujan ringan,Warning,95,1920,1080,3,0.62,0.63
+Jalan Bung Karno,08:20,1898,17.62,421.78,19,Barat → Timur,Cerah,Warning,91,1280,720,13,0.93,0.31
+Jalan Bung Karno,11:00,515,48.73,114.44,9,Barat → Timur,Hujan lebat,Warning,42,1920,1080,3,0.35,0.72
+Jalan Bung Karno,09:40,1882,38.58,418.22,19,Barat → Timur,Hujan lebat,Normal,45,1920,1080,17,0.74,0.73
+Jalan Majapahit,06:20,627,9.98,156.75,17,Barat → Timur,Hujan lebat,Normal,58,640,360,8,0.59,0.54
+Jalan Pejanggik,22:50,485,22.9,151.56,23,Barat → Timur,Hujan lebat,Warning,64,1280,720,10,0.99,0.29
+Jalan Pendidikan,12:00,891,13.36,297.0,11,Utara → Selatan,Berawan,Siaga tinggi,82,1280,720,1,0.56,0.14
+Jalan Udayana,16:50,1191,33.91,238.2,25,Timur → Barat,Cerah,Siaga tinggi,82,640,360,18,0.8,0.24
+Jalan Bung Karno,20:40,992,29.75,220.44,35,Selatan → Utara,Cerah,Siaga tinggi,86,640,360,9,0.43,0.4
+Jalan Udayana,19:10,798,49.86,159.6,18,Barat → Timur,Hujan ringan,Normal,41,640,360,3,0.3,0.81
+Jalan Pejanggik,18:50,1774,29.95,554.38,24,Barat → Timur,Cerah,Warning,61,1920,1080,24,0.93,0.11
+Jalan Majapahit,17:30,1689,14.27,422.25,26,Barat → Timur,Hujan lebat,Siaga,71,1280,720,22,0.47,0.44
+Jalan Majapahit,13:20,961,24.52,240.25,15,Timur → Barat,Hujan ringan,Normal,70,1920,1080,24,0.74,0.87
+Jalan Udayana,19:40,1023,48.74,204.6,22,Selatan → Utara,Hujan ringan,Normal,92,1280,720,8,0.83,0.22
+Jalan Udayana,20:50,875,26.0,175.0,20,Barat → Timur,Cerah,Normal,95,640,360,17,0.88,0.12
+Jalan Pendidikan,15:00,621,24.81,207.0,20,Timur → Barat,Hujan ringan,Siaga tinggi,42,640,360,12,0.25,0.31
+Jalan Pendidikan,11:20,932,48.73,310.67,12,Utara → Selatan,Cerah,Warning,66,1920,1080,24,0.22,0.25
+Jalan Pejanggik,09:30,1943,47.54,607.19,20,Selatan → Utara,Berawan,Siaga tinggi,100,1920,1080,22,0.49,0.2
+Jalan Udayana,13:30,710,42.93,142.0,24,Utara → Selatan,Cerah,Warning,77,1280,720,5,0.91,0.2
+Jalan Pendidikan,19:40,958,11.15,319.33,34,Barat → Timur,Cerah,Siaga tinggi,72,1280,720,13,0.58,0.11
+Jalan Bung Karno,21:50,863,38.27,191.78,29,Utara → Selatan,Hujan ringan,Normal,61,1920,1080,12,0.91,0.3
+Jalan Majapahit,13:50,738,39.14,184.5,41,Selatan → Utara,Hujan lebat,Siaga,51,1920,1080,16,0.36,0.8
+Jalan Udayana,07:40,1381,15.43,276.2,12,Barat → Timur,Hujan ringan,Warning,65,1280,720,17,0.98,0.19
+Jalan Pejanggik,21:50,640,35.09,200.0,28,Utara → Selatan,Hujan lebat,Siaga,98,640,360,17,0.92,0.51
+Jalan Bung Karno,15:10,389,22.53,86.44,21,Barat → Timur,Berawan,Warning,45,640,360,24,0.26,0.27
+Jalan Pendidikan,14:30,1073,29.96,357.67,41,Barat → Timur,Hujan lebat,Siaga tinggi,59,640,360,15,0.62,0.25
+Jalan Pejanggik,21:50,487,30.49,152.19,11,Timur → Barat,Cerah,Normal,44,1280,720,22,0.4,0.2
+Jalan Pendidikan,06:30,727,12.33,242.33,11,Selatan → Utara,Hujan lebat,Warning,72,1920,1080,11,0.23,0.33
+Jalan Udayana,18:10,1362,26.97,272.4,14,Selatan → Utara,Cerah,Siaga tinggi,81,1920,1080,3,0.34,0.74
+Jalan Pejanggik,20:20,343,14.65,107.19,0,Timur → Barat,Berawan,Siaga,49,640,360,11,0.66,0.3
+Jalan Pejanggik,19:50,900,15.39,281.25,14,Timur → Barat,Cerah,Siaga,41,1920,1080,3,0.95,0.72
+Jalan Udayana,19:00,872,45.93,174.4,12,Selatan → Utara,Berawan,Warning,77,1920,1080,18,0.67,0.61
+Jalan Udayana,11:50,1156,29.62,231.2,21,Barat → Timur,Hujan lebat,Siaga,90,640,360,14,0.59,0.43
+Jalan Udayana,16:10,1099,44.34,219.8,23,Barat → Timur,Berawan,Warning,88,1920,1080,15,0.33,0.76
+Jalan Pejanggik,21:00,1014,11.5,316.88,38,Timur → Barat,Berawan,Siaga tinggi,97,640,360,17,0.76,0.65
+Jalan Pejanggik,07:20,1865,12.34,582.81,29,Timur → Barat,Hujan ringan,Warning,52,1920,1080,3,0.46,0.17
+Jalan Pejanggik,20:30,1122,41.01,350.62,14,Timur → Barat,Hujan ringan,Normal,68,1280,720,2,0.89,0.86
+Jalan Cilinaya,16:30,1667,36.35,666.8,11,Timur → Barat,Berawan,Normal,42,1920,1080,15,0.89,0.43
+Jalan Pendidikan,19:30,614,38.91,204.67,24,Timur → Barat,Hujan lebat,Normal,45,1920,1080,18,0.38,0.42
+Jalan Cilinaya,12:00,740,28.99,296.0,6,Utara → Selatan,Berawan,Siaga tinggi,60,1920,1080,10,0.71,0.41
+Jalan Cilinaya,17:10,1965,8.76,786.0,38,Utara → Selatan,Hujan lebat,Siaga,60,1920,1080,12,0.58,0.45
+Jalan Bung Karno,17:00,1724,10.87,383.11,31,Utara → Selatan,Berawan,Siaga,51,1280,720,19,0.67,0.48
+Jalan Pendidikan,07:10,1012,26.94,337.33,15,Timur → Barat,Cerah,Siaga,75,640,360,9,0.61,0.35
+Jalan Pejanggik,20:40,631,24.75,197.19,2,Utara → Selatan,Hujan lebat,Siaga tinggi,92,1280,720,5,0.5,0.2
+Jalan Majapahit,20:40,980,40.03,245.0,33,Utara → Selatan,Berawan,Siaga tinggi,94,1280,720,22,0.66,0.53
+Jalan Majapahit,20:50,563,33.62,140.75,18,Barat → Timur,Hujan ringan,Siaga,76,640,360,24,0.84,0.75
+Jalan Bung Karno,22:40,487,25.45,108.22,32,Timur → Barat,Cerah,Warning,51,640,360,21,0.24,0.78
+Jalan Majapahit,12:40,523,21.18,130.75,4,Barat → Timur,Berawan,Warning,54,1920,1080,11,0.98,0.88
+Jalan Udayana,08:00,1867,45.41,373.4,14,Timur → Barat,Berawan,Warning,54,640,360,6,0.89,0.75
+Jalan Cilinaya,20:30,394,28.1,157.6,20,Utara → Selatan,Berawan,Normal,60,1920,1080,2,0.34,0.61
+Jalan Cilinaya,13:20,918,40.75,367.2,20,Barat → Timur,Hujan ringan,Siaga,72,1920,1080,4,0.86,0.74
+Jalan Udayana,09:30,1050,20.63,210.0,15,Utara → Selatan,Cerah,Normal,66,1920,1080,16,0.86,0.78
+Jalan Majapahit,06:10,774,23.87,193.5,26,Barat → Timur,Berawan,Normal,43,640,360,3,0.44,0.43
+Jalan Udayana,13:20,934,45.02,186.8,9,Timur → Barat,Cerah,Siaga,78,640,360,25,0.5,0.77
+Jalan Majapahit,19:10,827,21.92,206.75,18,Selatan → Utara,Hujan lebat,Siaga,81,640,360,2,0.36,0.64
+Jalan Cilinaya,12:20,306,13.95,122.4,21,Timur → Barat,Hujan lebat,Siaga,79,1280,720,10,0.35,0.37
+Jalan Bung Karno,22:40,599,34.71,133.11,25,Barat → Timur,Cerah,Siaga tinggi,91,1280,720,14,0.81,0.85
+Jalan Cilinaya,17:30,1341,43.39,536.4,27,Selatan → Utara,Berawan,Siaga,62,1280,720,1,0.44,0.84
+Jalan Bung Karno,20:20,1132,25.6,251.56,8,Timur → Barat,Berawan,Siaga tinggi,98,1280,720,3,0.56,0.44
+Jalan Pejanggik,16:10,1363,25.49,425.94,4,Barat → Timur,Berawan,Siaga,45,1280,720,10,0.47,0.57
+Jalan Pendidikan,08:40,1056,34.81,352.0,32,Utara → Selatan,Hujan lebat,Normal,87,640,360,12,0.37,0.89
+Jalan Cilinaya,20:10,467,14.64,186.8,23,Barat → Timur,Hujan ringan,Siaga tinggi,85,1920,1080,16,0.66,0.3
+Jalan Cilinaya,17:30,1968,25.85,787.2,12,Timur → Barat,Hujan ringan,Siaga tinggi,51,1280,720,3,0.74,0.3
+Jalan Majapahit,19:00,490,33.49,122.5,35,Barat → Timur,Hujan ringan,Normal,46,1280,720,13,0.79,0.24
+Jalan Udayana,21:30,524,23.26,104.8,21,Selatan → Utara,Hujan ringan,Siaga tinggi,55,1920,1080,23,0.9,0.73
+Jalan Majapahit,10:50,475,47.52,118.75,31,Selatan → Utara,Hujan ringan,Warning,74,640,360,8,0.52,0.26
+Jalan Majapahit,13:00,623,8.11,155.75,20,Utara → Selatan,Berawan,Siaga,71,1280,720,8,0.73,0.76
+Jalan Majapahit,15:10,1126,20.08,281.5,40,Selatan → Utara,Hujan lebat,Warning,67,640,360,15,0.42,0.57
+Jalan Pejanggik,15:00,1093,16.62,341.56,37,Utara → Selatan,Berawan,Warning,98,640,360,10,0.41,0.65
+Jalan Pejanggik,07:20,1913,26.9,597.81,17,Utara → Selatan,Hujan ringan,Warning,97,1280,720,16,0.51,0.15
+Jalan Bung Karno,18:10,1689,39.3,375.33,29,Barat → Timur,Berawan,Warning,81,1920,1080,25,0.36,0.26
+Jalan Pejanggik,12:00,787,34.88,245.94,26,Timur → Barat,Berawan,Normal,73,640,360,8,0.9,0.18
+Jalan Udayana,07:30,1144,30.44,228.8,33,Barat → Timur,Hujan lebat,Siaga,48,1920,1080,7,0.79,0.88
+Jalan Udayana,14:50,529,24.92,105.8,10,Utara → Selatan,Hujan lebat,Warning,100,1920,1080,23,0.87,0.32
+Jalan Majapahit,17:30,1337,34.97,334.25,26,Barat → Timur,Berawan,Warning,45,640,360,6,0.94,0.41
+Jalan Majapahit,18:50,1125,11.27,281.25,30,Utara → Selatan,Hujan ringan,Siaga,55,1920,1080,25,0.88,0.86
+Jalan Bung Karno,14:40,1139,33.39,253.11,2,Selatan → Utara,Hujan ringan,Warning,62,1920,1080,18,0.57,0.2
+Jalan Pejanggik,20:40,544,8.05,170.0,8,Utara → Selatan,Berawan,Warning,91,1280,720,14,0.32,0.31
+Jalan Pejanggik,10:00,979,18.26,305.94,0,Timur → Barat,Berawan,Warning,88,640,360,24,0.29,0.55
+Jalan Bung Karno,12:30,536,13.97,119.11,17,Utara → Selatan,Cerah,Siaga tinggi,48,640,360,25,0.71,0.76
+Jalan Bung Karno,21:20,1116,37.73,248.0,27,Selatan → Utara,Hujan lebat,Siaga,59,1280,720,13,0.83,0.73
+Jalan Bung Karno,22:10,1084,8.68,240.89,35,Selatan → Utara,Hujan ringan,Siaga tinggi,78,1920,1080,21,0.74,0.5
+Jalan Pendidikan,12:00,958,36.4,319.33,20,Utara → Selatan,Cerah,Normal,51,640,360,20,0.35,0.5
+Jalan Pendidikan,10:30,1023,49.83,341.0,36,Utara → Selatan,Hujan lebat,Siaga tinggi,80,1920,1080,17,0.25,0.39
+Jalan Cilinaya,10:50,374,42.35,149.6,6,Barat → Timur,Berawan,Siaga tinggi,68,1920,1080,21,0.57,0.16
+Jalan Bung Karno,06:00,602,33.37,133.78,2,Utara → Selatan,Hujan ringan,Siaga tinggi,85,1920,1080,11,0.65,0.67
+Jalan Bung Karno,22:40,472,19.32,104.89,19,Barat → Timur,Cerah,Siaga,81,1280,720,10,0.79,0.59
+Jalan Cilinaya,21:40,1033,14.81,413.2,23,Utara → Selatan,Hujan lebat,Warning,85,640,360,14,0.9,0.64
+Jalan Pendidikan,12:20,727,14.19,242.33,19,Barat → Timur,Cerah,Siaga tinggi,100,1280,720,15,0.89,0.17
+Jalan Majapahit,12:20,460,45.39,115.0,0,Timur → Barat,Cerah,Siaga tinggi,53,1280,720,19,0.46,0.24
+Jalan Majapahit,21:20,946,15.2,236.5,19,Utara → Selatan,Hujan lebat,Warning,41,1280,720,22,0.69,0.52
+Jalan Udayana,21:00,1120,37.52,224.0,6,Selatan → Utara,Hujan ringan,Warning,42,640,360,12,0.39,0.46
+Jalan Bung Karno,13:50,938,27.15,208.44,26,Selatan → Utara,Cerah,Siaga,79,640,360,11,0.47,0.82
+Jalan Bung Karno,08:10,1403,43.39,311.78,23,Barat → Timur,Hujan ringan,Normal,85,640,360,13,0.85,0.58
+Jalan Majapahit,07:10,1390,27.17,347.5,10,Utara → Selatan,Cerah,Warning,73,640,360,11,0.6,0.51
+Jalan Udayana,06:00,1001,30.51,200.2,14,Barat → Timur,Hujan ringan,Siaga,76,1280,720,7,0.24,0.48
+Jalan Pejanggik,13:30,567,15.24,177.19,9,Selatan → Utara,Berawan,Normal,81,1280,720,3,0.71,0.19
+Jalan Udayana,12:20,1005,46.24,201.0,19,Utara → Selatan,Cerah,Siaga,89,640,360,14,0.85,0.57
+Jalan Udayana,12:50,526,24.76,105.2,29,Selatan → Utara,Cerah,Normal,57,640,360,1,0.79,0.75
+Jalan Bung Karno,13:40,638,23.41,141.78,10,Timur → Barat,Cerah,Warning,70,1280,720,20,0.72,0.84
+Jalan Majapahit,16:40,1656,37.47,414.0,25,Barat → Timur,Cerah,Normal,84,1280,720,2,0.96,0.71
+Jalan Bung Karno,20:10,906,14.66,201.33,14,Barat → Timur,Cerah,Warning,92,1280,720,17,0.57,0.15
+Jalan Pejanggik,07:00,1955,36.65,610.94,12,Timur → Barat,Berawan,Siaga,49,1280,720,16,0.88,0.14
+Jalan Bung Karno,10:40,670,22.46,148.89,18,Timur → Barat,Hujan lebat,Siaga tinggi,52,1280,720,5,0.6,0.83
+Jalan Pejanggik,12:20,767,39.65,239.69,9,Utara → Selatan,Hujan ringan,Warning,51,640,360,21,0.43,0.54
+Jalan Bung Karno,19:30,567,47.38,126.0,14,Selatan → Utara,Berawan,Warning,76,1280,720,20,0.41,0.63
+Jalan Pejanggik,06:30,855,24.72,267.19,8,Utara → Selatan,Berawan,Normal,65,1280,720,11,0.53,0.61
+Jalan Udayana,09:10,1194,14.95,238.8,39,Utara → Selatan,Cerah,Warning,89,1280,720,12,0.3,0.67
+Jalan Bung Karno,11:30,446,25.2,99.11,20,Utara → Selatan,Hujan lebat,Siaga,49,1920,1080,23,0.45,0.15
+Jalan Udayana,16:00,1686,27.77,337.2,13,Selatan → Utara,Hujan ringan,Siaga,62,1280,720,25,0.81,0.62
+Jalan Udayana,06:00,866,11.51,173.2,22,Utara → Selatan,Hujan lebat,Siaga,77,640,360,24,0.22,0.63
+Jalan Udayana,12:20,768,46.32,153.6,18,Selatan → Utara,Berawan,Siaga,67,1920,1080,11,0.52,0.41
+Jalan Pejanggik,09:40,1538,8.14,480.62,17,Timur → Barat,Hujan lebat,Siaga tinggi,82,1280,720,24,0.38,0.75
+Jalan Cilinaya,08:30,1255,12.48,502.0,26,Utara → Selatan,Berawan,Siaga,55,640,360,16,0.92,0.17
+Jalan Cilinaya,20:10,782,41.89,312.8,27,Utara → Selatan,Berawan,Warning,93,1920,1080,5,0.32,0.63
+Jalan Pendidikan,07:50,1464,22.45,488.0,14,Utara → Selatan,Berawan,Warning,58,640,360,14,0.67,0.7
+Jalan Majapahit,10:40,421,16.1,105.25,14,Barat → Timur,Berawan,Siaga,91,1280,720,19,0.9,0.19
+Jalan Majapahit,08:50,1362,17.55,340.5,17,Timur → Barat,Hujan lebat,Warning,55,640,360,14,0.78,0.46
+Jalan Udayana,09:30,1678,44.52,335.6,0,Utara → Selatan,Cerah,Normal,78,640,360,17,0.89,0.73
+Jalan Pendidikan,08:50,1365,22.21,455.0,4,Selatan → Utara,Hujan lebat,Warning,91,1920,1080,15,0.67,0.84
+Jalan Pejanggik,09:00,1648,47.54,515.0,33,Timur → Barat,Berawan,Normal,75,1280,720,19,0.33,0.22
+Jalan Udayana,21:20,969,34.3,193.8,36,Utara → Selatan,Berawan,Warning,86,1280,720,1,0.49,0.63
+Jalan Pejanggik,14:20,378,21.4,118.12,17,Timur → Barat,Hujan lebat,Normal,44,1280,720,2,0.43,0.6
+Jalan Cilinaya,16:20,1704,8.49,681.6,25,Timur → Barat,Hujan ringan,Siaga tinggi,58,1280,720,1,0.97,0.46
+Jalan Cilinaya,12:10,328,44.25,131.2,23,Selatan → Utara,Berawan,Warning,93,1280,720,25,0.21,0.42
+Jalan Cilinaya,14:30,880,22.89,352.0,50,Selatan → Utara,Hujan lebat,Normal,99,1920,1080,9,0.27,0.87
+Jalan Bung Karno,20:10,956,12.52,212.44,31,Utara → Selatan,Hujan lebat,Normal,90,1920,1080,6,0.94,0.87
+Jalan Pendidikan,18:50,1142,39.07,380.67,18,Selatan → Utara,Cerah,Siaga tinggi,54,1920,1080,13,0.25,0.59
+Jalan Pendidikan,21:30,913,21.38,304.33,10,Utara → Selatan,Hujan lebat,Normal,77,1920,1080,11,0.71,0.68
+Jalan Pejanggik,09:10,1245,36.9,389.06,3,Barat → Timur,Berawan,Warning,69,640,360,12,0.76,0.48
+Jalan Pejanggik,12:40,571,24.64,178.44,22,Utara → Selatan,Hujan lebat,Warning,51,1280,720,19,0.81,0.65
+Jalan Pendidikan,20:40,687,34.52,229.0,12,Barat → Timur,Cerah,Siaga,52,640,360,21,0.23,0.78
+Jalan Cilinaya,06:10,547,37.32,218.8,5,Selatan → Utara,Hujan lebat,Warning,55,1280,720,19,0.54,0.34
+Jalan Udayana,21:30,444,14.9,88.8,13,Selatan → Utara,Hujan ringan,Normal,43,1280,720,5,1.0,0.62
+Jalan Pejanggik,14:20,1080,14.54,337.5,9,Timur → Barat,Berawan,Siaga,96,1280,720,14,0.33,0.43
+Jalan Cilinaya,17:00,1229,28.18,491.6,36,Barat → Timur,Hujan lebat,Siaga,55,1280,720,6,0.55,0.9
+Jalan Udayana,20:20,1150,15.93,230.0,28,Selatan → Utara,Hujan lebat,Warning,74,1920,1080,7,0.61,0.28
+Jalan Pejanggik,20:00,770,13.2,240.62,19,Barat → Timur,Cerah,Siaga tinggi,72,1920,1080,21,0.51,0.19
+Jalan Pendidikan,22:40,349,35.78,116.33,34,Barat → Timur,Hujan ringan,Siaga,69,1920,1080,24,0.75,0.33
+Jalan Pejanggik,22:20,1106,11.01,345.62,20,Selatan → Utara,Hujan lebat,Normal,84,1920,1080,23,0.79,0.22
+Jalan Udayana,19:10,1032,47.29,206.4,11,Timur → Barat,Hujan ringan,Normal,91,1280,720,15,0.77,0.33
+Jalan Bung Karno,20:40,783,39.56,174.0,35,Barat → Timur,Cerah,Warning,40,640,360,9,0.65,0.59
+Jalan Udayana,18:40,1166,49.3,233.2,25,Timur → Barat,Cerah,Siaga tinggi,97,1920,1080,21,0.94,0.72
+Jalan Pejanggik,06:30,633,48.98,197.81,9,Selatan → Utara,Cerah,Siaga,62,640,360,21,0.27,0.84
+Jalan Pendidikan,18:50,1623,30.75,541.0,18,Timur → Barat,Hujan lebat,Siaga tinggi,49,640,360,5,0.82,0.41
+Jalan Pejanggik,16:30,1972,36.96,616.25,11,Utara → Selatan,Hujan ringan,Warning,41,640,360,14,0.92,0.43
+Jalan Pejanggik,20:00,1120,9.73,350.0,6,Barat → Timur,Cerah,Siaga,54,1280,720,7,0.57,0.12
+Jalan Majapahit,12:40,1082,17.36,270.5,29,Barat → Timur,Hujan lebat,Warning,63,640,360,20,0.84,0.22
+Jalan Cilinaya,09:00,1825,30.2,730.0,39,Barat → Timur,Hujan ringan,Warning,86,1920,1080,13,0.29,0.29
+Jalan Cilinaya,10:40,627,14.24,250.8,6,Timur → Barat,Berawan,Siaga tinggi,83,1920,1080,20,0.57,0.66
+Jalan Bung Karno,10:10,629,18.18,139.78,25,Timur → Barat,Cerah,Siaga tinggi,57,1920,1080,15,0.49,0.88
+Jalan Pendidikan,12:50,304,34.45,101.33,13,Barat → Timur,Hujan ringan,Normal,74,1280,720,20,0.34,0.79
+Jalan Pendidikan,11:30,1188,18.23,396.0,15,Barat → Timur,Hujan ringan,Siaga tinggi,71,1920,1080,17,0.23,0.48
+Jalan Majapahit,13:40,931,37.49,232.75,14,Selatan → Utara,Cerah,Siaga tinggi,51,1280,720,22,0.92,0.63
+Jalan Pendidikan,09:50,1657,9.83,552.33,11,Barat → Timur,Berawan,Warning,97,640,360,10,0.32,0.27
+Jalan Udayana,09:50,1083,30.89,216.6,20,Utara → Selatan,Berawan,Siaga tinggi,50,640,360,20,0.52,0.24
+Jalan Udayana,12:40,781,39.63,156.2,11,Utara → Selatan,Hujan lebat,Siaga,42,1280,720,6,0.77,0.59
+Jalan Cilinaya,09:10,1280,22.79,512.0,22,Selatan → Utara,Cerah,Warning,87,1280,720,18,0.28,0.86
+Jalan Bung Karno,16:40,1687,13.53,374.89,19,Selatan → Utara,Berawan,Siaga tinggi,58,640,360,8,0.71,0.57
+Jalan Pejanggik,15:50,492,16.46,153.75,17,Selatan → Utara,Cerah,Normal,78,1920,1080,5,0.87,0.47
+Jalan Pendidikan,07:40,1672,23.76,557.33,10,Selatan → Utara,Hujan lebat,Warning,56,1280,720,21,0.55,0.16
+Jalan Majapahit,19:50,496,21.14,124.0,14,Timur → Barat,Cerah,Siaga,64,1280,720,24,0.49,0.52
+Jalan Majapahit,13:50,1070,38.89,267.5,27,Barat → Timur,Berawan,Normal,56,1920,1080,14,0.44,0.28
+Jalan Udayana,22:20,439,40.02,87.8,25,Selatan → Utara,Berawan,Siaga,60,1920,1080,12,0.68,0.2
+Jalan Pejanggik,18:00,1298,29.25,405.62,10,Timur → Barat,Cerah,Siaga tinggi,51,1280,720,13,0.91,0.56
+Jalan Majapahit,16:50,1504,19.86,376.0,20,Selatan → Utara,Hujan lebat,Warning,74,1280,720,1,0.82,0.75
+Jalan Majapahit,17:10,1049,46.95,262.25,27,Utara → Selatan,Berawan,Normal,41,640,360,16,0.54,0.68
+Jalan Pejanggik,16:00,1542,44.69,481.88,3,Selatan → Utara,Cerah,Siaga tinggi,81,1280,720,18,0.72,0.89
+Jalan Udayana,06:50,1172,13.77,234.4,25,Utara → Selatan,Cerah,Siaga,97,1280,720,18,0.9,0.7
+Jalan Bung Karno,08:20,1824,35.04,405.33,13,Selatan → Utara,Berawan,Warning,81,640,360,16,0.58,0.59
+Jalan Pendidikan,10:20,617,28.72,205.67,25,Utara → Selatan,Berawan,Warning,82,1920,1080,5,0.94,0.67
+Jalan Pendidikan,15:40,769,35.63,256.33,12,Timur → Barat,Hujan lebat,Siaga tinggi,89,640,360,1,0.2,0.76
+Jalan Pendidikan,17:00,1331,44.68,443.67,1,Selatan → Utara,Berawan,Normal,75,1920,1080,23,0.68,0.8
+Jalan Pejanggik,22:00,365,10.52,114.06,3,Selatan → Utara,Hujan lebat,Siaga tinggi,95,1280,720,18,0.84,0.43
+Jalan Majapahit,08:10,1095,25.04,273.75,20,Timur → Barat,Berawan,Siaga,95,1280,720,14,0.7,0.72
+Jalan Bung Karno,19:20,442,9.39,98.22,22,Barat → Timur,Hujan ringan,Warning,48,1280,720,5,0.76,0.21
+Jalan Pejanggik,19:30,925,23.89,289.06,10,Selatan → Utara,Hujan lebat,Warning,91,1920,1080,3,0.2,0.27
+Jalan Cilinaya,21:20,617,14.48,246.8,26,Utara → Selatan,Hujan lebat,Normal,79,1920,1080,11,0.29,0.68
+Jalan Udayana,13:00,1049,14.06,209.8,3,Selatan → Utara,Hujan lebat,Normal,78,1280,720,12,0.69,0.23
+Jalan Pendidikan,16:20,1378,26.77,459.33,19,Selatan → Utara,Berawan,Warning,47,1920,1080,24,0.87,0.65
+Jalan Bung Karno,17:00,1529,17.11,339.78,7,Barat → Timur,Hujan ringan,Warning,96,1920,1080,3,0.5,0.47
+Jalan Majapahit,13:30,880,16.71,220.0,13,Timur → Barat,Hujan lebat,Siaga tinggi,66,1280,720,23,0.48,0.81
+Jalan Udayana,10:20,958,40.86,191.6,20,Selatan → Utara,Hujan lebat,Normal,44,640,360,7,0.91,0.52
+Jalan Udayana,21:20,606,29.32,121.2,11,Timur → Barat,Berawan,Siaga tinggi,96,1280,720,9,0.36,0.68
+Jalan Pejanggik,19:30,1163,39.91,363.44,16,Barat → Timur,Hujan lebat,Siaga tinggi,99,640,360,4,0.71,0.36
+Jalan Pejanggik,06:00,327,32.55,102.19,30,Selatan → Utara,Hujan lebat,Warning,76,640,360,13,0.68,0.19
+Jalan Cilinaya,17:40,1200,32.98,480.0,14,Selatan → Utara,Cerah,Warning,41,1280,720,2,0.34,0.77
+Jalan Pejanggik,08:20,1370,11.58,428.12,28,Utara → Selatan,Cerah,Siaga tinggi,93,640,360,13,0.42,0.25
+Jalan Udayana,09:30,1676,33.7,335.2,8,Timur → Barat,Cerah,Siaga,47,1920,1080,1,0.22,0.5
+Jalan Pendidikan,08:10,1927,18.32,642.33,25,Utara → Selatan,Hujan ringan,Siaga,69,1280,720,3,0.23,0.29
+Jalan Udayana,06:00,573,28.17,114.6,34,Barat → Timur,Berawan,Warning,53,640,360,7,0.66,0.27
+Jalan Bung Karno,06:00,819,35.23,182.0,0,Barat → Timur,Berawan,Siaga tinggi,58,1280,720,12,0.45,0.18
+Jalan Pejanggik,21:40,380,25.71,118.75,12,Utara → Selatan,Hujan lebat,Siaga tinggi,81,640,360,25,0.48,0.62
+Jalan Pejanggik,06:00,971,13.63,303.44,25,Selatan → Utara,Hujan ringan,Siaga tinggi,40,1920,1080,20,0.72,0.46
+Jalan Pejanggik,22:40,1154,24.09,360.62,17,Timur → Barat,Hujan ringan,Siaga tinggi,40,640,360,2,0.81,0.3
+Jalan Udayana,06:50,1184,12.86,236.8,23,Utara → Selatan,Cerah,Normal,43,640,360,19,0.76,0.41
+Jalan Majapahit,16:40,1571,35.34,392.75,13,Timur → Barat,Hujan ringan,Normal,50,1280,720,12,0.34,0.24
+Jalan Udayana,18:00,1484,9.03,296.8,20,Utara → Selatan,Cerah,Normal,64,640,360,2,0.36,0.65
+Jalan Pendidikan,13:30,1052,10.39,350.67,18,Timur → Barat,Hujan lebat,Siaga,62,1280,720,10,0.64,0.61
+Jalan Pejanggik,21:20,999,44.67,312.19,31,Timur → Barat,Hujan lebat,Normal,51,1920,1080,10,0.61,0.66
+Jalan Bung Karno,08:50,1410,30.45,313.33,22,Selatan → Utara,Hujan lebat,Warning,99,1280,720,23,0.64,0.31
+Jalan Majapahit,21:20,617,21.39,154.25,23,Barat → Timur,Hujan ringan,Siaga tinggi,62,1920,1080,24,0.34,0.39
+Jalan Udayana,20:40,908,26.61,181.6,15,Barat → Timur,Cerah,Warning,86,1280,720,8,0.7,0.49
+Jalan Pendidikan,17:00,1148,25.99,382.67,15,Timur → Barat,Hujan lebat,Normal,40,1280,720,22,0.42,0.74
+Jalan Bung Karno,06:40,593,16.74,131.78,15,Utara → Selatan,Berawan,Normal,58,1280,720,24,0.99,0.12
+Jalan Udayana,19:10,655,47.64,131.0,23,Selatan → Utara,Hujan lebat,Siaga tinggi,95,1920,1080,24,0.73,0.16
+Jalan Udayana,15:50,665,49.39,133.0,15,Utara → Selatan,Hujan lebat,Normal,65,1920,1080,3,0.9,0.84
+Jalan Pendidikan,14:10,898,48.96,299.33,22,Barat → Timur,Hujan ringan,Siaga,95,1920,1080,6,0.47,0.83
+Jalan Cilinaya,15:50,894,33.57,357.6,40,Utara → Selatan,Hujan lebat,Normal,91,1920,1080,18,0.26,0.76
+Jalan Cilinaya,11:30,669,8.57,267.6,28,Timur → Barat,Hujan lebat,Siaga tinggi,58,640,360,4,0.37,0.49
+Jalan Pendidikan,14:30,1104,40.14,368.0,16,Timur → Barat,Hujan lebat,Siaga tinggi,95,1280,720,17,0.31,0.88
+Jalan Udayana,07:00,1908,45.94,381.6,32,Selatan → Utara,Berawan,Normal,48,1920,1080,12,0.31,0.19
+Jalan Pejanggik,12:00,449,23.34,140.31,15,Timur → Barat,Berawan,Siaga tinggi,100,640,360,2,0.68,0.28
+Jalan Cilinaya,06:00,865,39.76,346.0,0,Timur → Barat,Cerah,Normal,41,1920,1080,4,0.35,0.48
+Jalan Majapahit,11:10,466,20.22,116.5,9,Selatan → Utara,Hujan ringan,Siaga,49,1280,720,16,0.78,0.75
+Jalan Cilinaya,17:20,1991,49.7,796.4,1,Timur → Barat,Hujan lebat,Siaga,59,1280,720,23,0.44,0.54
+Jalan Bung Karno,11:30,1137,28.49,252.67,16,Utara → Selatan,Berawan,Warning,74,1280,720,20,0.89,0.25
+Jalan Udayana,18:20,1630,42.4,326.0,20,Selatan → Utara,Hujan lebat,Siaga tinggi,83,1920,1080,2,0.85,0.77
+Jalan Cilinaya,07:40,1676,18.87,670.4,36,Selatan → Utara,Hujan ringan,Siaga tinggi,66,1920,1080,17,0.47,0.83
+Jalan Pejanggik,09:20,1948,40.23,608.75,23,Utara → Selatan,Hujan lebat,Siaga tinggi,50,1920,1080,7,0.87,0.23
+Jalan Pendidikan,10:10,1061,28.53,353.67,17,Timur → Barat,Hujan lebat,Warning,70,1280,720,16,0.7,0.3
+Jalan Cilinaya,21:50,988,14.68,395.2,28,Barat → Timur,Hujan ringan,Warning,79,1280,720,4,0.84,0.75
+Jalan Cilinaya,08:00,1031,37.28,412.4,0,Timur → Barat,Berawan,Normal,85,640,360,23,0.82,0.66
+Jalan Pejanggik,06:50,334,24.11,104.38,22,Selatan → Utara,Hujan lebat,Normal,71,1920,1080,19,0.35,0.46
+Jalan Majapahit,12:00,721,17.28,180.25,27,Utara → Selatan,Hujan ringan,Normal,43,1280,720,2,0.53,0.27
+Jalan Cilinaya,10:10,446,18.91,178.4,5,Timur → Barat,Hujan ringan,Warning,100,640,360,21,0.39,0.61
+Jalan Cilinaya,06:50,477,11.49,190.8,31,Selatan → Utara,Berawan,Warning,85,1280,720,19,0.71,0.7
+Jalan Pejanggik,17:20,1456,49.63,455.0,23,Selatan → Utara,Hujan ringan,Warning,57,640,360,3,0.37,0.51
+Jalan Bung Karno,11:00,869,25.14,193.11,15,Barat → Timur,Hujan ringan,Siaga tinggi,98,1280,720,20,0.35,0.55
+Jalan Pejanggik,17:50,1385,34.71,432.81,26,Utara → Selatan,Berawan,Warning,63,1920,1080,25,0.73,0.19
+Jalan Bung Karno,08:10,1673,24.91,371.78,42,Utara → Selatan,Berawan,Siaga tinggi,93,1920,1080,20,0.92,0.68
+Jalan Cilinaya,22:20,890,13.45,356.0,21,Selatan → Utara,Berawan,Warning,42,1280,720,11,0.69,0.43
+Jalan Cilinaya,17:10,1641,49.78,656.4,22,Selatan → Utara,Hujan lebat,Warning,49,1280,720,20,0.54,0.49
+Jalan Pendidikan,21:20,450,38.33,150.0,15,Utara → Selatan,Cerah,Normal,69,1920,1080,11,0.39,0.25
+Jalan Pejanggik,18:00,1451,26.01,453.44,11,Timur → Barat,Cerah,Normal,87,640,360,3,0.8,0.12
+Jalan Bung Karno,20:10,552,29.98,122.67,28,Utara → Selatan,Berawan,Siaga,76,640,360,13,0.22,0.55
+Jalan Pejanggik,13:40,1102,34.34,344.38,11,Utara → Selatan,Hujan ringan,Siaga,73,1280,720,21,0.32,0.88
+Jalan Bung Karno,11:40,876,18.1,194.67,20,Selatan → Utara,Hujan lebat,Siaga tinggi,89,1280,720,6,0.97,0.7
+Jalan Majapahit,08:50,1007,25.63,251.75,15,Barat → Timur,Hujan lebat,Warning,68,1280,720,5,0.55,0.52
+Jalan Majapahit,07:40,1259,13.44,314.75,24,Utara → Selatan,Cerah,Siaga tinggi,56,1280,720,5,0.79,0.17
+Jalan Udayana,13:40,554,32.92,110.8,23,Utara → Selatan,Berawan,Normal,100,1280,720,12,0.59,0.19
+Jalan Majapahit,21:00,349,41.87,87.25,30,Utara → Selatan,Cerah,Normal,74,1920,1080,22,0.52,0.47
+Jalan Pejanggik,21:10,901,24.33,281.56,14,Barat → Timur,Hujan ringan,Warning,54,640,360,6,0.86,0.65
+Jalan Majapahit,14:40,938,20.82,234.5,17,Selatan → Utara,Berawan,Normal,46,1280,720,10,0.33,0.68
+Jalan Bung Karno,12:10,558,27.21,124.0,10,Selatan → Utara,Berawan,Normal,83,1280,720,13,0.7,0.77
+Jalan Pendidikan,17:00,1342,18.67,447.33,15,Timur → Barat,Cerah,Warning,43,640,360,12,0.54,0.64
+Jalan Pejanggik,16:40,1489,29.19,465.31,23,Utara → Selatan,Hujan ringan,Warning,62,640,360,14,0.86,0.71
+Jalan Cilinaya,11:20,485,9.1,194.0,27,Selatan → Utara,Cerah,Siaga,55,640,360,5,0.21,0.47
+Jalan Bung Karno,18:00,1212,28.39,269.33,10,Barat → Timur,Berawan,Warning,84,1280,720,24,0.28,0.11
+Jalan Cilinaya,10:20,521,20.47,208.4,28,Utara → Selatan,Hujan ringan,Warning,68,640,360,6,0.86,0.45
+Jalan Udayana,21:40,765,47.71,153.0,33,Selatan → Utara,Cerah,Siaga tinggi,60,1920,1080,6,0.93,0.36
+Jalan Bung Karno,19:10,1176,37.01,261.33,24,Selatan → Utara,Hujan ringan,Normal,90,640,360,8,0.47,0.64
+Jalan Pendidikan,11:00,495,39.39,165.0,38,Barat → Timur,Berawan,Warning,42,640,360,12,0.33,0.47
+Jalan Udayana,21:50,1193,28.12,238.6,12,Selatan → Utara,Hujan ringan,Siaga tinggi,41,640,360,21,0.22,0.42
+Jalan Pejanggik,22:10,724,15.23,226.25,7,Barat → Timur,Hujan lebat,Warning,60,640,360,19,0.69,0.89
+Jalan Majapahit,19:10,343,43.73,85.75,2,Timur → Barat,Cerah,Normal,62,640,360,21,0.48,0.48
+Jalan Udayana,21:40,912,43.0,182.4,34,Barat → Timur,Cerah,Siaga tinggi,98,640,360,17,0.96,0.26
+Jalan Pendidikan,08:50,1712,47.99,570.67,26,Selatan → Utara,Berawan,Siaga tinggi,67,1280,720,3,0.43,0.27
+Jalan Bung Karno,22:20,714,40.03,158.67,19,Utara → Selatan,Hujan ringan,Warning,65,640,360,12,0.58,0.79
+Jalan Cilinaya,11:50,1127,28.14,450.8,22,Barat → Timur,Hujan ringan,Siaga tinggi,89,1920,1080,6,0.92,0.74
+Jalan Udayana,19:00,843,20.57,168.6,8,Timur → Barat,Berawan,Siaga tinggi,76,640,360,3,0.84,0.44
+Jalan Cilinaya,12:40,1002,11.47,400.8,44,Utara → Selatan,Berawan,Warning,49,1280,720,22,0.39,0.34
+Jalan Pendidikan,11:30,1141,28.31,380.33,21,Timur → Barat,Berawan,Siaga,78,1280,720,14,0.97,0.46
+Jalan Cilinaya,16:30,1622,37.55,648.8,21,Selatan → Utara,Hujan lebat,Warning,53,640,360,15,0.48,0.44
+Jalan Majapahit,20:00,387,27.23,96.75,27,Utara → Selatan,Berawan,Normal,83,640,360,14,0.48,0.24
+Jalan Udayana,06:20,522,11.5,104.4,24,Timur → Barat,Hujan ringan,Normal,82,1920,1080,3,0.55,0.27
+Jalan Pejanggik,19:20,1097,17.03,342.81,22,Timur → Barat,Hujan ringan,Warning,42,1280,720,11,0.4,0.85
+Jalan Cilinaya,20:20,409,47.14,163.6,12,Utara → Selatan,Berawan,Siaga tinggi,54,1920,1080,13,0.97,0.54
+Jalan Udayana,06:30,541,27.42,108.2,24,Timur → Barat,Hujan lebat,Normal,76,1920,1080,1,0.87,0.33
+Jalan Udayana,16:50,1056,16.21,211.2,38,Utara → Selatan,Hujan ringan,Siaga tinggi,79,640,360,21,0.88,0.64
+Jalan Udayana,09:40,1563,16.89,312.6,33,Selatan → Utara,Cerah,Normal,42,1280,720,2,0.56,0.21
+Jalan Pendidikan,19:30,668,45.92,222.67,35,Selatan → Utara,Hujan ringan,Siaga,66,1280,720,8,0.26,0.74
+Jalan Majapahit,09:40,1918,25.01,479.5,14,Selatan → Utara,Berawan,Siaga tinggi,100,1920,1080,16,0.29,0.39
+Jalan Bung Karno,11:00,797,8.18,177.11,10,Timur → Barat,Cerah,Warning,65,1280,720,7,0.81,0.43
+Jalan Pejanggik,21:10,367,23.52,114.69,18,Utara → Selatan,Berawan,Siaga,91,1920,1080,12,0.57,0.86
+Jalan Bung Karno,16:50,1938,38.1,430.67,20,Utara → Selatan,Hujan ringan,Normal,68,1280,720,6,0.37,0.86
+Jalan Pejanggik,06:20,475,14.19,148.44,30,Utara → Selatan,Cerah,Normal,77,1920,1080,19,0.24,0.48
+Jalan Udayana,22:10,1049,47.79,209.8,3,Utara → Selatan,Hujan ringan,Warning,55,1920,1080,17,0.55,0.22
+Jalan Cilinaya,06:40,701,45.53,280.4,35,Barat → Timur,Hujan ringan,Siaga tinggi,65,1280,720,21,0.84,0.66
+Jalan Majapahit,21:40,358,32.46,89.5,18,Utara → Selatan,Berawan,Siaga tinggi,57,1280,720,13,0.23,0.85
+Jalan Cilinaya,17:40,1088,21.14,435.2,15,Timur → Barat,Cerah,Normal,99,640,360,3,0.75,0.65
+Jalan Bung Karno,12:50,942,43.78,209.33,9,Timur → Barat,Berawan,Siaga tinggi,83,640,360,18,0.31,0.19
+Jalan Udayana,14:40,1146,26.38,229.2,3,Barat → Timur,Hujan ringan,Normal,78,640,360,12,0.45,0.79
+Jalan Pejanggik,16:00,1983,22.23,619.69,28,Barat → Timur,Berawan,Siaga,96,640,360,3,0.24,0.12
+Jalan Udayana,21:50,667,38.95,133.4,20,Barat → Timur,Cerah,Normal,66,1280,720,19,0.96,0.46
+Jalan Pejanggik,07:10,1496,10.52,467.5,7,Utara → Selatan,Hujan lebat,Normal,87,1280,720,19,0.44,0.12
+Jalan Udayana,08:00,1672,38.56,334.4,7,Timur → Barat,Cerah,Siaga,60,1920,1080,3,0.61,0.21
+Jalan Bung Karno,10:00,701,18.29,155.78,16,Barat → Timur,Hujan lebat,Siaga,93,640,360,12,0.49,0.59
+Jalan Pendidikan,20:30,957,14.45,319.0,36,Utara → Selatan,Cerah,Siaga,44,640,360,7,0.68,0.67
+Jalan Pendidikan,12:10,674,20.83,224.67,17,Utara → Selatan,Hujan ringan,Normal,96,1280,720,13,0.93,0.31
+Jalan Pejanggik,15:00,612,36.43,191.25,4,Timur → Barat,Hujan ringan,Siaga,72,1920,1080,4,0.94,0.68
+Jalan Udayana,22:00,1165,16.95,233.0,17,Timur → Barat,Hujan ringan,Siaga,99,640,360,14,0.55,0.84
+Jalan Majapahit,08:10,1268,27.59,317.0,17,Barat → Timur,Hujan ringan,Siaga,84,1280,720,25,0.24,0.82
+Jalan Bung Karno,21:00,723,9.02,160.67,0,Barat → Timur,Cerah,Siaga,64,1920,1080,2,0.79,0.52
+Jalan Majapahit,07:40,1920,44.89,480.0,19,Utara → Selatan,Hujan ringan,Siaga,61,1280,720,4,0.57,0.74
+Jalan Pendidikan,20:00,1021,40.78,340.33,17,Timur → Barat,Hujan lebat,Normal,74,640,360,20,0.85,0.29
+Jalan Pendidikan,12:40,623,27.36,207.67,26,Selatan → Utara,Cerah,Siaga,60,640,360,13,0.99,0.62
+Jalan Pejanggik,07:50,1402,40.0,438.12,38,Barat → Timur,Cerah,Warning,61,640,360,15,0.68,0.15
+Jalan Bung Karno,17:00,1461,9.81,324.67,31,Selatan → Utara,Hujan lebat,Normal,71,1920,1080,11,0.73,0.53
+Jalan Pendidikan,21:20,915,9.89,305.0,17,Selatan → Utara,Hujan lebat,Warning,82,640,360,17,0.68,0.87
+Jalan Udayana,21:00,1156,14.19,231.2,8,Barat → Timur,Hujan ringan,Normal,45,1280,720,4,0.96,0.56
+Jalan Udayana,13:30,368,35.8,73.6,45,Selatan → Utara,Cerah,Siaga,67,1920,1080,21,0.76,0.77
+Jalan Bung Karno,16:40,1334,32.53,296.44,20,Timur → Barat,Hujan ringan,Siaga,76,1280,720,8,0.34,0.77
+Jalan Majapahit,15:10,745,46.35,186.25,20,Selatan → Utara,Hujan lebat,Siaga,63,640,360,8,0.88,0.46
+Jalan Bung Karno,18:20,1241,42.14,275.78,19,Barat → Timur,Hujan ringan,Siaga,84,640,360,6,0.48,0.18
+Jalan Bung Karno,20:10,487,44.4,108.22,21,Utara → Selatan,Cerah,Normal,67,1920,1080,1,0.44,0.51
+Jalan Pendidikan,08:10,1568,9.42,522.67,18,Barat → Timur,Hujan ringan,Siaga,94,640,360,14,0.48,0.76
+Jalan Pendidikan,15:50,388,36.97,129.33,14,Selatan → Utara,Hujan ringan,Siaga,93,1280,720,16,0.77,0.81
+Jalan Udayana,15:00,836,25.94,167.2,14,Barat → Timur,Berawan,Siaga tinggi,65,1280,720,5,0.77,0.8
+Jalan Bung Karno,20:00,997,41.46,221.56,19,Barat → Timur,Cerah,Normal,83,640,360,23,0.3,0.71
+Jalan Pejanggik,06:40,911,21.11,284.69,14,Barat → Timur,Hujan ringan,Siaga,60,1280,720,7,0.75,0.33
+Jalan Majapahit,17:50,1861,46.02,465.25,12,Utara → Selatan,Hujan lebat,Siaga tinggi,72,1920,1080,25,0.72,0.11
+Jalan Pendidikan,16:10,1603,32.09,534.33,21,Timur → Barat,Cerah,Siaga,60,1280,720,15,0.68,0.89
+Jalan Majapahit,13:50,1138,41.36,284.5,17,Selatan → Utara,Cerah,Normal,100,640,360,15,0.22,0.86
+Jalan Cilinaya,06:10,745,23.21,298.0,35,Selatan → Utara,Berawan,Siaga,58,1280,720,20,0.56,0.45
+Jalan Udayana,11:00,732,36.52,146.4,0,Utara → Selatan,Hujan lebat,Siaga tinggi,79,1920,1080,17,0.38,0.75
+Jalan Pejanggik,18:50,1159,31.47,362.19,30,Utara → Selatan,Hujan lebat,Warning,46,1920,1080,15,0.33,0.79
+Jalan Majapahit,08:50,1268,33.29,317.0,32,Selatan → Utara,Hujan lebat,Siaga tinggi,95,1280,720,5,0.96,0.85
+Jalan Bung Karno,10:50,599,47.81,133.11,0,Selatan → Utara,Cerah,Siaga tinggi,88,1920,1080,10,0.91,0.39
+Jalan Cilinaya,15:00,714,12.52,285.6,16,Barat → Timur,Berawan,Siaga,92,1280,720,3,0.58,0.79
+Jalan Majapahit,20:50,327,32.2,81.75,16,Barat → Timur,Cerah,Normal,95,640,360,12,0.84,0.8
+Jalan Pejanggik,16:00,1114,22.06,348.12,5,Timur → Barat,Hujan lebat,Siaga tinggi,74,1280,720,8,0.83,0.35
+Jalan Bung Karno,08:20,1949,48.58,433.11,12,Barat → Timur,Berawan,Siaga,65,1280,720,12,0.33,0.71
+Jalan Pendidikan,22:30,595,9.08,198.33,8,Utara → Selatan,Berawan,Siaga tinggi,60,1920,1080,2,0.87,0.23
+Jalan Pendidikan,20:30,860,36.05,286.67,37,Barat → Timur,Hujan ringan,Warning,90,640,360,12,0.42,0.43
+Jalan Pejanggik,11:20,991,8.17,309.69,29,Selatan → Utara,Hujan ringan,Siaga tinggi,49,640,360,21,0.97,0.49
+Jalan Majapahit,13:10,817,42.12,204.25,32,Barat → Timur,Hujan lebat,Siaga tinggi,43,640,360,15,0.52,0.4
+Jalan Majapahit,13:10,1089,22.4,272.25,27,Timur → Barat,Berawan,Normal,63,1920,1080,4,0.88,0.79
+Jalan Majapahit,15:40,976,41.41,244.0,8,Timur → Barat,Hujan lebat,Normal,95,1920,1080,19,0.42,0.8
+Jalan Pejanggik,22:10,699,19.18,218.44,14,Utara → Selatan,Cerah,Warning,50,640,360,15,0.3,0.37
+Jalan Udayana,22:00,726,22.91,145.2,24,Timur → Barat,Cerah,Siaga,79,1920,1080,12,0.67,0.54
+Jalan Udayana,11:30,825,47.27,165.0,7,Barat → Timur,Berawan,Normal,96,1920,1080,24,0.63,0.78
+Jalan Bung Karno,14:50,510,43.09,113.33,27,Timur → Barat,Hujan lebat,Siaga tinggi,73,1280,720,10,0.76,0.6
+Jalan Cilinaya,21:20,833,43.54,333.2,17,Timur → Barat,Hujan ringan,Normal,66,1920,1080,12,0.54,0.9
+Jalan Bung Karno,22:50,377,29.34,83.78,16,Utara → Selatan,Cerah,Normal,74,640,360,9,0.67,0.83
+Jalan Pendidikan,16:30,1936,38.23,645.33,27,Utara → Selatan,Hujan lebat,Siaga tinggi,75,1920,1080,12,0.92,0.78
+Jalan Bung Karno,08:50,1748,15.15,388.44,24,Selatan → Utara,Cerah,Normal,41,1920,1080,4,0.9,0.38
+Jalan Udayana,18:00,1304,33.53,260.8,16,Selatan → Utara,Cerah,Siaga,45,640,360,7,0.77,0.15
+Jalan Bung Karno,13:40,762,42.74,169.33,31,Barat → Timur,Hujan ringan,Warning,42,640,360,10,0.94,0.11
+Jalan Udayana,15:30,835,24.47,167.0,9,Timur → Barat,Hujan lebat,Warning,40,1280,720,9,0.35,0.21
+Jalan Majapahit,17:50,1637,33.63,409.25,26,Utara → Selatan,Hujan ringan,Normal,87,1920,1080,3,0.56,0.26
+Jalan Pejanggik,06:40,493,44.94,154.06,25,Selatan → Utara,Cerah,Siaga,40,1280,720,5,0.82,0.4
+Jalan Udayana,07:00,1183,11.9,236.6,16,Timur → Barat,Hujan lebat,Siaga tinggi,79,1920,1080,10,0.27,0.46
+Jalan Bung Karno,13:50,1200,36.52,266.67,23,Barat → Timur,Hujan lebat,Normal,52,640,360,12,0.67,0.61
+Jalan Pejanggik,18:20,1904,22.53,595.0,7,Utara → Selatan,Hujan ringan,Warning,43,1280,720,15,0.9,0.35
+Jalan Majapahit,09:30,1706,46.65,426.5,29,Selatan → Utara,Berawan,Normal,45,1280,720,1,0.46,0.34
+Jalan Cilinaya,19:00,1106,46.45,442.4,18,Utara → Selatan,Berawan,Warning,68,1920,1080,9,0.31,0.71
+Jalan Majapahit,18:40,1632,21.35,408.0,14,Utara → Selatan,Berawan,Normal,92,1280,720,19,0.99,0.1
+Jalan Pendidikan,22:30,898,37.33,299.33,30,Timur → Barat,Berawan,Warning,43,1920,1080,9,0.64,0.7
+Jalan Bung Karno,09:30,1741,47.17,386.89,12,Barat → Timur,Hujan ringan,Siaga tinggi,77,1920,1080,9,0.3,0.84
+Jalan Pendidikan,20:30,740,8.9,246.67,5,Timur → Barat,Hujan ringan,Siaga tinggi,43,1280,720,20,0.81,0.41
+Jalan Majapahit,06:00,1057,32.35,264.25,4,Barat → Timur,Cerah,Warning,94,1280,720,22,0.62,0.88
+Jalan Cilinaya,09:20,1025,15.87,410.0,26,Timur → Barat,Hujan ringan,Siaga,49,1920,1080,11,0.27,0.67
+Jalan Pendidikan,14:40,967,31.73,322.33,7,Selatan → Utara,Hujan ringan,Normal,47,1280,720,18,0.76,0.53
+Jalan Majapahit,10:40,846,32.11,211.5,37,Selatan → Utara,Berawan,Warning,60,1280,720,10,0.39,0.23
+Jalan Bung Karno,18:20,1732,30.37,384.89,0,Selatan → Utara,Hujan ringan,Siaga,41,640,360,19,0.5,0.58
+Jalan Pendidikan,19:40,709,10.32,236.33,36,Barat → Timur,Cerah,Siaga,87,640,360,9,0.52,0.1
+Jalan Cilinaya,19:00,381,34.31,152.4,22,Utara → Selatan,Cerah,Siaga tinggi,42,640,360,3,0.45,0.89
+Jalan Bung Karno,06:50,804,14.42,178.67,19,Barat → Timur,Cerah,Normal,67,1920,1080,16,0.44,0.7
+Jalan Cilinaya,11:50,750,34.31,300.0,14,Barat → Timur,Hujan ringan,Siaga,84,1920,1080,5,0.58,0.56
+Jalan Cilinaya,08:30,1911,27.81,764.4,23,Barat → Timur,Cerah,Siaga,99,640,360,4,0.66,0.44
+Jalan Majapahit,14:50,826,38.74,206.5,19,Selatan → Utara,Cerah,Warning,67,640,360,1,0.44,0.19
+Jalan Bung Karno,18:40,1211,27.31,269.11,31,Utara → Selatan,Berawan,Siaga tinggi,69,1280,720,12,0.41,0.69
+Jalan Pendidikan,11:50,433,46.92,144.33,21,Barat → Timur,Hujan lebat,Normal,48,1280,720,23,0.62,0.71
+Jalan Pendidikan,07:20,1564,28.94,521.33,21,Utara → Selatan,Cerah,Normal,43,1280,720,9,0.72,0.44
+Jalan Cilinaya,06:10,714,44.09,285.6,16,Utara → Selatan,Berawan,Siaga,69,1280,720,15,0.73,0.1
+Jalan Udayana,15:00,1114,39.95,222.8,19,Barat → Timur,Cerah,Siaga,54,1920,1080,21,0.97,0.41
+Jalan Majapahit,12:00,1094,9.89,273.5,23,Utara → Selatan,Cerah,Siaga,100,640,360,8,0.38,0.71
+Jalan Pendidikan,14:30,1062,28.14,354.0,2,Barat → Timur,Cerah,Warning,89,640,360,12,0.69,0.19
+Jalan Udayana,16:20,1454,19.64,290.8,6,Timur → Barat,Hujan lebat,Siaga,63,640,360,2,0.47,0.7
+Jalan Pendidikan,13:20,505,22.1,168.33,27,Selatan → Utara,Cerah,Siaga tinggi,70,1280,720,8,0.41,0.47
+Jalan Pendidikan,16:20,1163,19.0,387.67,21,Selatan → Utara,Berawan,Normal,40,1920,1080,7,0.69,0.82
+Jalan Pejanggik,12:30,1041,34.98,325.31,18,Selatan → Utara,Hujan lebat,Siaga,48,1920,1080,6,0.35,0.28
+Jalan Cilinaya,20:10,660,46.65,264.0,20,Timur → Barat,Hujan ringan,Siaga tinggi,70,640,360,23,0.62,0.55
+Jalan Majapahit,14:30,666,35.1,166.5,23,Barat → Timur,Cerah,Warning,53,1920,1080,22,0.21,0.13
+Jalan Pejanggik,22:30,1153,18.76,360.31,14,Timur → Barat,Hujan lebat,Siaga,87,1280,720,22,0.69,0.63
+Jalan Cilinaya,11:50,778,23.65,311.2,12,Utara → Selatan,Hujan lebat,Siaga tinggi,80,1280,720,14,0.35,0.87
+Jalan Pejanggik,12:50,558,42.36,174.38,21,Barat → Timur,Hujan ringan,Siaga tinggi,64,1280,720,6,0.45,0.67
+Jalan Bung Karno,17:10,1681,44.2,373.56,10,Utara → Selatan,Hujan lebat,Normal,92,640,360,17,0.63,0.25
+Jalan Pendidikan,07:00,1195,20.39,398.33,24,Timur → Barat,Hujan lebat,Siaga tinggi,93,1280,720,16,0.3,0.43
+Jalan Cilinaya,22:20,386,49.77,154.4,2,Timur → Barat,Berawan,Normal,88,1920,1080,3,0.21,0.29
+Jalan Udayana,16:30,1613,20.02,322.6,30,Barat → Timur,Hujan ringan,Normal,49,1280,720,22,0.46,0.69
+Jalan Pejanggik,20:20,583,49.89,182.19,24,Timur → Barat,Hujan lebat,Siaga tinggi,53,1280,720,1,0.48,0.66
+Jalan Bung Karno,18:20,1375,18.07,305.56,22,Utara → Selatan,Hujan lebat,Normal,92,640,360,15,0.37,0.19
+Jalan Bung Karno,13:40,789,13.76,175.33,29,Barat → Timur,Hujan ringan,Normal,96,640,360,16,0.88,0.71
+Jalan Cilinaya,12:30,316,10.61,126.4,36,Barat → Timur,Berawan,Siaga tinggi,100,1920,1080,5,0.21,0.25
+Jalan Udayana,10:00,1014,27.71,202.8,30,Barat → Timur,Hujan ringan,Warning,46,1920,1080,12,0.99,0.58
+Jalan Pendidikan,11:50,706,21.15,235.33,1,Utara → Selatan,Hujan ringan,Siaga tinggi,58,640,360,16,0.8,0.43
+Jalan Pendidikan,20:30,531,32.56,177.0,7,Barat → Timur,Berawan,Warning,77,1920,1080,4,0.21,0.68
+Jalan Bung Karno,13:50,846,31.53,188.0,13,Utara → Selatan,Berawan,Siaga tinggi,43,640,360,4,0.28,0.74
+Jalan Udayana,11:50,531,21.33,106.2,20,Selatan → Utara,Berawan,Warning,63,1280,720,21,0.33,0.57
+Jalan Bung Karno,07:00,1928,26.57,428.44,25,Barat → Timur,Hujan lebat,Normal,58,640,360,21,0.72,0.52
+Jalan Cilinaya,18:50,1788,22.59,715.2,12,Barat → Timur,Cerah,Warning,72,640,360,1,0.39,0.5
+Jalan Bung Karno,16:00,1772,32.1,393.78,21,Selatan → Utara,Hujan lebat,Warning,70,1920,1080,24,0.89,0.73
+Jalan Pejanggik,13:40,1132,23.37,353.75,12,Utara → Selatan,Cerah,Warning,50,640,360,19,0.69,0.81
+Jalan Udayana,06:50,613,10.43,122.6,13,Utara → Selatan,Berawan,Siaga,94,640,360,11,0.53,0.12
+Jalan Pendidikan,20:20,782,21.54,260.67,5,Barat → Timur,Hujan ringan,Warning,78,1920,1080,3,0.97,0.43
+Jalan Bung Karno,08:50,1045,28.14,232.22,10,Utara → Selatan,Hujan ringan,Siaga,84,1280,720,7,0.31,0.39
+Jalan Cilinaya,22:10,887,21.58,354.8,6,Barat → Timur,Hujan lebat,Warning,48,1280,720,6,0.32,0.82
+Jalan Udayana,19:50,953,9.71,190.6,10,Timur → Barat,Hujan ringan,Normal,41,640,360,11,0.89,0.14
+Jalan Cilinaya,15:30,589,17.05,235.6,30,Utara → Selatan,Hujan lebat,Siaga,81,1920,1080,8,0.32,0.3
+Jalan Pendidikan,10:50,1055,27.97,351.67,10,Selatan → Utara,Cerah,Siaga tinggi,74,640,360,8,0.7,0.52
+Jalan Pendidikan,12:30,610,48.63,203.33,46,Barat → Timur,Berawan,Normal,52,1280,720,7,0.89,0.73
+Jalan Pejanggik,22:30,961,25.78,300.31,24,Timur → Barat,Berawan,Warning,92,640,360,25,0.21,0.62
+Jalan Cilinaya,21:50,551,8.03,220.4,21,Timur → Barat,Hujan ringan,Siaga,86,1280,720,14,0.35,0.46
+Jalan Bung Karno,08:30,1731,37.45,384.67,11,Utara → Selatan,Hujan ringan,Normal,44,640,360,13,0.91,0.67
+Jalan Pejanggik,20:00,1065,32.59,332.81,27,Barat → Timur,Cerah,Siaga,44,1920,1080,2,0.28,0.21
+Jalan Cilinaya,07:10,1949,29.56,779.6,14,Barat → Timur,Berawan,Warning,44,1920,1080,4,0.69,0.87
+Jalan Pejanggik,14:40,937,18.92,292.81,21,Timur → Barat,Berawan,Siaga,87,1920,1080,18,0.98,0.78
+Jalan Bung Karno,06:00,1181,48.29,262.44,45,Barat → Timur,Berawan,Siaga,91,1280,720,6,0.92,0.82
+Jalan Majapahit,08:40,1710,33.86,427.5,19,Selatan → Utara,Hujan ringan,Normal,86,640,360,22,0.38,0.54
+Jalan Udayana,09:30,1250,47.81,250.0,31,Timur → Barat,Cerah,Siaga,45,1280,720,12,0.88,0.72
+Jalan Pejanggik,15:40,662,16.4,206.88,12,Utara → Selatan,Cerah,Siaga,57,640,360,9,0.91,0.25
+Jalan Cilinaya,06:00,683,26.78,273.2,19,Barat → Timur,Cerah,Warning,51,1920,1080,11,0.66,0.54
+Jalan Majapahit,16:30,1391,48.6,347.75,37,Utara → Selatan,Hujan lebat,Warning,97,1920,1080,14,0.25,0.25
+Jalan Majapahit,06:50,426,43.22,106.5,13,Utara → Selatan,Hujan lebat,Siaga,63,640,360,9,0.76,0.87
+Jalan Majapahit,12:10,519,26.11,129.75,38,Utara → Selatan,Hujan ringan,Siaga,54,1920,1080,7,0.53,0.67
+Jalan Udayana,14:10,1006,25.3,201.2,27,Timur → Barat,Hujan ringan,Normal,52,1280,720,20,0.77,0.86
+Jalan Cilinaya,19:50,703,17.06,281.2,14,Timur → Barat,Berawan,Siaga,52,1280,720,16,0.49,0.79
+Jalan Pendidikan,15:10,1183,48.22,394.33,26,Timur → Barat,Hujan lebat,Normal,92,1920,1080,3,0.41,0.62
+Jalan Pejanggik,19:10,447,15.96,139.69,29,Utara → Selatan,Hujan ringan,Normal,88,640,360,7,0.67,0.5
+Jalan Bung Karno,08:40,1662,42.25,369.33,26,Utara → Selatan,Hujan lebat,Siaga tinggi,70,1280,720,13,0.59,0.4
+Jalan Udayana,17:30,1044,28.32,208.8,4,Selatan → Utara,Berawan,Warning,46,1280,720,20,0.29,0.4
+Jalan Bung Karno,10:10,897,16.15,199.33,12,Timur → Barat,Cerah,Normal,58,1280,720,8,0.94,0.6
+Jalan Bung Karno,11:10,551,45.55,122.44,17,Selatan → Utara,Cerah,Siaga,75,1280,720,8,0.97,0.42
+Jalan Bung Karno,17:40,1643,42.67,365.11,19,Utara → Selatan,Hujan lebat,Warning,58,640,360,5,1.0,0.12
+Jalan Majapahit,17:20,1700,35.9,425.0,26,Utara → Selatan,Hujan ringan,Warning,40,1280,720,8,0.25,0.48
+Jalan Udayana,15:10,453,29.18,90.6,21,Timur → Barat,Hujan lebat,Siaga,99,1280,720,10,0.83,0.29
+Jalan Pendidikan,07:20,1613,41.87,537.67,6,Barat → Timur,Hujan ringan,Siaga tinggi,41,1280,720,10,0.32,0.14
+Jalan Pejanggik,07:40,1013,32.14,316.56,23,Selatan → Utara,Berawan,Siaga,60,1920,1080,6,0.67,0.48
+Jalan Pendidikan,18:30,1640,31.13,546.67,26,Barat → Timur,Berawan,Siaga,76,1920,1080,24,0.28,0.24
+Jalan Bung Karno,11:40,506,39.62,112.44,25,Utara → Selatan,Hujan lebat,Normal,63,1280,720,15,0.95,0.39
+Jalan Pendidikan,13:20,504,25.07,168.0,30,Selatan → Utara,Berawan,Warning,44,1920,1080,5,0.26,0.39
+Jalan Pejanggik,08:50,1303,47.07,407.19,28,Timur → Barat,Hujan lebat,Siaga,56,1280,720,10,0.69,0.67
+Jalan Cilinaya,16:50,1950,49.87,780.0,24,Utara → Selatan,Cerah,Siaga,59,1280,720,5,0.71,0.53
+Jalan Majapahit,16:50,1220,38.33,305.0,19,Utara → Selatan,Hujan lebat,Siaga tinggi,77,1280,720,1,0.85,0.27
+Jalan Bung Karno,15:30,1053,31.53,234.0,3,Selatan → Utara,Berawan,Siaga tinggi,41,1280,720,16,0.5,0.2
+Jalan Pejanggik,17:30,1039,39.92,324.69,24,Selatan → Utara,Hujan ringan,Warning,93,1920,1080,24,0.8,0.18
+Jalan Bung Karno,12:30,670,34.45,148.89,22,Timur → Barat,Berawan,Warning,68,1280,720,21,0.63,0.63
+Jalan Pendidikan,21:40,790,13.14,263.33,22,Utara → Selatan,Hujan lebat,Normal,96,640,360,18,0.67,0.14
+Jalan Pendidikan,18:20,1483,31.26,494.33,7,Selatan → Utara,Hujan lebat,Normal,81,1920,1080,1,0.99,0.49
+Jalan Cilinaya,08:00,1666,44.67,666.4,9,Barat → Timur,Hujan ringan,Warning,57,1920,1080,23,0.55,0.38
+Jalan Pendidikan,14:20,1048,38.43,349.33,30,Utara → Selatan,Hujan lebat,Warning,90,640,360,3,0.51,0.44
+Jalan Bung Karno,08:40,1020,42.36,226.67,19,Selatan → Utara,Berawan,Siaga,69,1920,1080,6,0.33,0.79
+Jalan Pejanggik,16:20,1543,11.82,482.19,26,Utara → Selatan,Berawan,Normal,89,1280,720,4,0.82,0.62
+Jalan Bung Karno,16:10,1319,33.87,293.11,20,Timur → Barat,Hujan lebat,Normal,65,1280,720,7,0.31,0.17
+Jalan Majapahit,20:00,771,49.25,192.75,20,Timur → Barat,Berawan,Normal,57,1280,720,20,0.33,0.36
+Jalan Bung Karno,09:00,1953,34.51,434.0,29,Timur → Barat,Berawan,Warning,60,640,360,21,0.61,0.59
+Jalan Majapahit,09:30,1353,23.44,338.25,14,Barat → Timur,Hujan ringan,Siaga tinggi,71,1280,720,11,0.58,0.38
+Jalan Pejanggik,20:40,762,30.19,238.12,20,Utara → Selatan,Hujan ringan,Normal,41,1920,1080,16,0.39,0.89
+Jalan Pendidikan,19:00,595,11.13,198.33,15,Barat → Timur,Cerah,Siaga tinggi,98,640,360,8,0.48,0.84
+Jalan Udayana,11:20,1064,46.32,212.8,15,Barat → Timur,Cerah,Siaga tinggi,46,640,360,2,0.48,0.45
+Jalan Bung Karno,16:30,1427,30.61,317.11,16,Barat → Timur,Berawan,Siaga tinggi,56,1920,1080,14,0.66,0.41
+Jalan Pendidikan,16:40,1973,28.95,657.67,22,Utara → Selatan,Berawan,Siaga tinggi,81,1920,1080,18,0.58,0.54
+Jalan Majapahit,19:10,1132,26.26,283.0,15,Utara → Selatan,Berawan,Siaga tinggi,95,640,360,7,0.72,0.88
+Jalan Pejanggik,09:10,1148,16.81,358.75,32,Barat → Timur,Berawan,Siaga,51,1280,720,23,0.41,0.11
+Jalan Majapahit,20:20,987,30.18,246.75,11,Utara → Selatan,Cerah,Siaga tinggi,77,1920,1080,12,0.6,0.48
+Jalan Pejanggik,09:30,1890,34.17,590.62,18,Selatan → Utara,Hujan ringan,Warning,84,1920,1080,25,0.23,0.55
+Jalan Pejanggik,09:20,1466,8.01,458.12,15,Utara → Selatan,Cerah,Siaga tinggi,67,1280,720,17,0.7,0.8
+Jalan Cilinaya,10:50,864,24.44,345.6,34,Barat → Timur,Hujan lebat,Normal,84,640,360,10,0.72,0.32
+Jalan Udayana,22:40,1187,21.29,237.4,21,Timur → Barat,Hujan lebat,Warning,99,640,360,22,0.36,0.79
+Jalan Pejanggik,21:50,984,29.93,307.5,30,Utara → Selatan,Hujan ringan,Normal,46,1280,720,25,0.98,0.41
+Jalan Udayana,15:10,1170,43.71,234.0,5,Timur → Barat,Hujan lebat,Warning,71,1920,1080,16,0.48,0.67
+Jalan Pejanggik,21:20,682,29.37,213.12,22,Timur → Barat,Berawan,Siaga,95,1920,1080,6,0.26,0.51
+Jalan Bung Karno,16:40,1251,15.8,278.0,28,Selatan → Utara,Hujan ringan,Siaga,73,1920,1080,11,0.62,0.34
+Jalan Pendidikan,12:40,472,11.82,157.33,20,Timur → Barat,Berawan,Warning,82,640,360,16,0.42,0.67
+Jalan Cilinaya,18:10,1946,23.84,778.4,30,Selatan → Utara,Cerah,Warning,76,640,360,12,0.75,0.16
+Jalan Pendidikan,20:10,315,19.64,105.0,14,Utara → Selatan,Cerah,Normal,56,640,360,14,0.9,0.23
+Jalan Udayana,20:30,748,10.62,149.6,34,Barat → Timur,Berawan,Normal,99,640,360,22,0.4,0.78
+Jalan Majapahit,20:40,1085,35.86,271.25,42,Barat → Timur,Hujan lebat,Normal,69,1920,1080,9,0.62,0.86
+Jalan Udayana,13:00,383,8.02,76.6,16,Barat → Timur,Cerah,Siaga tinggi,76,640,360,6,0.35,0.74
+Jalan Pendidikan,19:40,1082,34.21,360.67,15,Barat → Timur,Cerah,Normal,94,1280,720,25,0.54,0.49
+Jalan Cilinaya,08:40,1667,26.77,666.8,34,Barat → Timur,Hujan ringan,Normal,81,640,360,6,0.81,0.3
+Jalan Cilinaya,22:20,811,16.35,324.4,35,Barat → Timur,Berawan,Warning,72,1280,720,19,0.81,0.15
+Jalan Pendidikan,17:40,1023,30.55,341.0,14,Timur → Barat,Hujan ringan,Siaga tinggi,63,1280,720,19,0.22,0.47
+Jalan Pejanggik,08:40,1462,40.52,456.88,15,Utara → Selatan,Hujan lebat,Siaga,90,1920,1080,23,0.43,0.2
+Jalan Bung Karno,09:00,1593,8.18,354.0,17,Timur → Barat,Berawan,Siaga,75,1920,1080,13,0.9,0.54
+Jalan Bung Karno,18:10,1867,25.49,414.89,6,Utara → Selatan,Berawan,Siaga,43,1920,1080,1,0.35,0.35
+Jalan Bung Karno,07:10,1468,32.04,326.22,10,Selatan → Utara,Berawan,Siaga,89,1280,720,12,0.65,0.6
+Jalan Majapahit,08:50,1478,27.05,369.5,9,Selatan → Utara,Hujan ringan,Normal,54,1920,1080,25,0.91,0.21
+Jalan Bung Karno,18:00,1822,34.94,404.89,12,Barat → Timur,Berawan,Siaga,50,1280,720,7,0.31,0.7
+Jalan Cilinaya,13:50,349,19.32,139.6,19,Timur → Barat,Berawan,Warning,80,1280,720,21,0.9,0.43
+Jalan Cilinaya,12:50,956,18.89,382.4,22,Timur → Barat,Berawan,Siaga,82,1920,1080,20,0.52,0.38
+Jalan Pejanggik,10:10,950,38.33,296.88,35,Barat → Timur,Hujan ringan,Warning,85,1280,720,6,0.28,0.69
+Jalan Majapahit,19:20,718,48.75,179.5,10,Timur → Barat,Berawan,Normal,94,1920,1080,8,0.9,0.79
+Jalan Bung Karno,06:30,598,23.33,132.89,29,Utara → Selatan,Cerah,Siaga tinggi,68,1920,1080,25,0.67,0.61
+Jalan Pejanggik,07:30,1405,13.79,439.06,17,Selatan → Utara,Hujan ringan,Siaga tinggi,41,640,360,16,0.97,0.29
+Jalan Majapahit,11:50,376,9.27,94.0,19,Selatan → Utara,Hujan ringan,Normal,61,640,360,15,0.37,0.52
+Jalan Cilinaya,15:40,631,10.31,252.4,26,Timur → Barat,Berawan,Siaga tinggi,71,1920,1080,22,0.35,0.88
+Jalan Pejanggik,15:20,674,21.08,210.62,8,Timur → Barat,Cerah,Siaga tinggi,43,640,360,12,0.54,0.81
+Jalan Majapahit,17:50,1392,14.19,348.0,23,Selatan → Utara,Cerah,Siaga,62,1920,1080,13,0.96,0.19
+Jalan Pendidikan,07:10,1849,38.02,616.33,21,Timur → Barat,Hujan ringan,Normal,57,1280,720,17,0.57,0.53
+Jalan Pejanggik,22:40,1124,40.97,351.25,24,Barat → Timur,Berawan,Warning,69,640,360,2,0.59,0.52
+Jalan Udayana,22:00,611,42.06,122.2,22,Selatan → Utara,Berawan,Siaga,78,640,360,14,0.73,0.5
+Jalan Udayana,22:30,933,11.05,186.6,44,Timur → Barat,Cerah,Normal,78,1920,1080,10,0.73,0.84
+Jalan Cilinaya,06:30,345,41.74,138.0,13,Timur → Barat,Hujan lebat,Siaga tinggi,44,1920,1080,18,0.83,0.88
+Jalan Cilinaya,06:30,1109,9.6,443.6,14,Utara → Selatan,Hujan lebat,Siaga,89,1280,720,15,0.87,0.27
+Jalan Pendidikan,17:50,1722,22.9,574.0,13,Selatan → Utara,Cerah,Siaga tinggi,56,640,360,14,0.51,0.29
+Jalan Bung Karno,07:10,1001,42.43,222.44,14,Selatan → Utara,Cerah,Normal,50,640,360,23,0.35,0.55
+Jalan Pendidikan,10:40,648,36.57,216.0,13,Timur → Barat,Hujan lebat,Warning,41,1280,720,25,0.45,0.65
+Jalan Bung Karno,21:20,725,42.77,161.11,31,Selatan → Utara,Hujan ringan,Warning,48,1280,720,1,0.68,0.38
+Jalan Bung Karno,21:40,943,36.45,209.56,34,Selatan → Utara,Hujan lebat,Warning,98,640,360,23,0.84,0.43
+Jalan Cilinaya,18:20,1966,21.29,786.4,14,Selatan → Utara,Cerah,Siaga tinggi,62,1280,720,23,0.27,0.49
+Jalan Bung Karno,22:50,1103,25.73,245.11,11,Timur → Barat,Hujan lebat,Siaga,77,1280,720,4,0.68,0.42
+Jalan Bung Karno,22:00,606,13.65,134.67,24,Timur → Barat,Cerah,Siaga,78,640,360,13,0.44,0.23
+Jalan Majapahit,13:10,481,13.98,120.25,14,Timur → Barat,Berawan,Siaga,40,1280,720,20,0.7,0.14
+Jalan Cilinaya,11:40,1031,25.13,412.4,26,Timur → Barat,Hujan lebat,Siaga,98,1280,720,19,0.63,0.6
+Jalan Majapahit,09:20,1215,13.68,303.75,22,Utara → Selatan,Cerah,Siaga tinggi,68,1920,1080,5,0.58,0.34
+Jalan Pejanggik,06:20,868,43.05,271.25,4,Barat → Timur,Hujan ringan,Siaga tinggi,100,640,360,13,0.24,0.34
+Jalan Cilinaya,10:30,724,47.08,289.6,35,Timur → Barat,Hujan ringan,Normal,69,1280,720,4,0.99,0.81
+Jalan Majapahit,12:20,710,10.91,177.5,37,Barat → Timur,Hujan ringan,Siaga tinggi,52,1920,1080,24,0.85,0.75
+Jalan Bung Karno,06:10,739,24.08,164.22,13,Timur → Barat,Berawan,Siaga,86,640,360,4,0.37,0.51
+Jalan Pendidikan,19:00,813,31.23,271.0,16,Barat → Timur,Hujan lebat,Normal,82,640,360,8,0.76,0.75
+Jalan Pendidikan,14:50,448,24.19,149.33,22,Utara → Selatan,Hujan ringan,Siaga tinggi,45,1920,1080,24,0.75,0.72
+Jalan Udayana,06:50,621,36.41,124.2,23,Utara → Selatan,Hujan lebat,Siaga tinggi,58,1920,1080,8,0.98,0.24
+Jalan Pendidikan,15:00,951,42.15,317.0,26,Timur → Barat,Hujan lebat,Siaga tinggi,57,1280,720,25,0.3,0.63
+Jalan Udayana,18:30,1202,44.81,240.4,40,Timur → Barat,Cerah,Siaga,53,1920,1080,19,0.94,0.57
+Jalan Cilinaya,06:00,655,17.51,262.0,18,Utara → Selatan,Cerah,Warning,43,640,360,5,0.58,0.34
+Jalan Pejanggik,11:10,1074,46.12,335.62,12,Timur → Barat,Berawan,Siaga,62,640,360,17,0.53,0.31
+Jalan Bung Karno,19:10,1096,26.8,243.56,6,Barat → Timur,Hujan ringan,Warning,53,1920,1080,22,0.93,0.52
+Jalan Bung Karno,17:50,1233,39.98,274.0,12,Timur → Barat,Hujan lebat,Normal,73,640,360,13,0.54,0.16
+Jalan Cilinaya,20:10,490,37.68,196.0,19,Timur → Barat,Cerah,Siaga,47,640,360,9,0.53,0.53
+Jalan Pendidikan,07:40,1034,19.84,344.67,37,Selatan → Utara,Berawan,Siaga,90,1280,720,9,0.84,0.57
+Jalan Pejanggik,22:10,424,13.79,132.5,14,Selatan → Utara,Cerah,Siaga,50,1920,1080,10,0.88,0.9
+Jalan Pendidikan,10:50,1071,41.62,357.0,22,Selatan → Utara,Cerah,Siaga,75,1920,1080,14,0.38,0.59
+Jalan Udayana,14:30,780,30.38,156.0,19,Utara → Selatan,Cerah,Warning,44,1280,720,12,0.3,0.61
+Jalan Pendidikan,13:00,754,22.85,251.33,31,Barat → Timur,Cerah,Warning,64,1280,720,23,0.56,0.26
+Jalan Bung Karno,17:20,1397,35.04,310.44,45,Utara → Selatan,Berawan,Siaga,58,1920,1080,6,0.51,0.45
+Jalan Cilinaya,17:40,1261,44.04,504.4,14,Utara → Selatan,Hujan lebat,Warning,98,640,360,8,0.83,0.75
+Jalan Pendidikan,19:40,886,35.01,295.33,15,Timur → Barat,Berawan,Siaga,73,640,360,10,0.44,0.12
+Jalan Udayana,20:40,907,43.49,181.4,30,Utara → Selatan,Berawan,Warning,72,1920,1080,8,0.48,0.12
+Jalan Majapahit,17:50,1103,44.1,275.75,26,Barat → Timur,Hujan lebat,Warning,47,1280,720,16,0.21,0.62
+Jalan Udayana,08:50,1897,8.76,379.4,38,Utara → Selatan,Hujan lebat,Siaga tinggi,72,1280,720,7,0.78,0.2
+Jalan Pendidikan,15:50,543,36.34,181.0,25,Timur → Barat,Hujan ringan,Siaga tinggi,90,1920,1080,17,0.54,0.36
+Jalan Pendidikan,19:50,862,32.51,287.33,16,Selatan → Utara,Berawan,Warning,84,1280,720,23,0.29,0.18
+Jalan Cilinaya,20:00,756,14.27,302.4,25,Selatan → Utara,Hujan ringan,Siaga,43,640,360,10,0.47,0.13
+Jalan Cilinaya,07:00,1465,16.21,586.0,31,Utara → Selatan,Hujan ringan,Warning,48,1920,1080,22,0.67,0.81
+Jalan Udayana,20:50,803,13.75,160.6,28,Timur → Barat,Hujan lebat,Siaga,81,1920,1080,3,0.32,0.49
+Jalan Pendidikan,13:00,487,22.51,162.33,25,Utara → Selatan,Cerah,Normal,64,1280,720,10,0.36,0.76
+Jalan Bung Karno,12:30,973,24.17,216.22,30,Barat → Timur,Hujan ringan,Normal,49,640,360,6,0.49,0.69
+Jalan Majapahit,08:00,1053,37.79,263.25,31,Selatan → Utara,Hujan lebat,Normal,61,1280,720,20,0.71,0.51
+Jalan Cilinaya,20:20,713,47.29,285.2,33,Utara → Selatan,Hujan ringan,Siaga,85,1280,720,8,0.57,0.3
+Jalan Cilinaya,17:40,1838,8.15,735.2,26,Utara → Selatan,Cerah,Siaga,78,1280,720,17,0.67,0.5
+Jalan Cilinaya,16:50,1958,49.62,783.2,18,Utara → Selatan,Berawan,Siaga tinggi,89,1920,1080,7,0.91,0.86
+Jalan Bung Karno,21:30,904,48.67,200.89,21,Utara → Selatan,Hujan ringan,Normal,67,1280,720,17,0.37,0.45
+Jalan Cilinaya,18:00,1757,38.79,702.8,32,Barat → Timur,Hujan ringan,Warning,92,640,360,22,0.65,0.28
+Jalan Cilinaya,15:20,1173,18.21,469.2,11,Timur → Barat,Berawan,Siaga tinggi,47,1280,720,9,0.97,0.67
+Jalan Majapahit,17:40,1940,16.3,485.0,23,Utara → Selatan,Hujan ringan,Siaga tinggi,77,640,360,19,0.71,0.32
+Jalan Pejanggik,14:10,1045,48.74,326.56,16,Barat → Timur,Hujan lebat,Siaga tinggi,95,1920,1080,17,0.52,0.5
+Jalan Udayana,07:40,1873,44.18,374.6,20,Barat → Timur,Hujan lebat,Warning,48,1920,1080,5,0.6,0.89
+Jalan Cilinaya,21:00,735,15.93,294.0,32,Selatan → Utara,Hujan ringan,Siaga tinggi,46,1280,720,20,0.87,0.11
+Jalan Udayana,08:50,1003,22.97,200.6,21,Timur → Barat,Hujan lebat,Siaga tinggi,52,1920,1080,11,0.59,0.34
+Jalan Pendidikan,13:10,1060,20.7,353.33,20,Selatan → Utara,Hujan lebat,Normal,58,1920,1080,11,0.5,0.87
+Jalan Pejanggik,22:50,1166,39.48,364.38,6,Timur → Barat,Cerah,Warning,42,1920,1080,2,0.27,0.46
+Jalan Udayana,14:00,417,30.45,83.4,27,Utara → Selatan,Hujan lebat,Siaga,41,1280,720,5,0.87,0.25
+Jalan Cilinaya,12:50,368,35.8,147.2,26,Utara → Selatan,Hujan lebat,Siaga tinggi,83,1280,720,5,0.26,0.62
+Jalan Pejanggik,20:40,737,19.43,230.31,41,Barat → Timur,Cerah,Warning,98,1920,1080,3,0.5,0.65
+Jalan Pejanggik,12:00,1023,17.7,319.69,16,Utara → Selatan,Berawan,Siaga,89,640,360,23,0.3,0.59
+Jalan Majapahit,22:10,914,47.28,228.5,22,Utara → Selatan,Hujan ringan,Normal,81,1280,720,19,0.82,0.13
+Jalan Cilinaya,06:10,787,43.98,314.8,22,Barat → Timur,Berawan,Siaga tinggi,73,640,360,24,0.53,0.49
+Jalan Cilinaya,06:00,728,43.08,291.2,35,Selatan → Utara,Cerah,Normal,75,640,360,2,0.86,0.86
+Jalan Majapahit,17:30,1970,45.88,492.5,19,Selatan → Utara,Hujan lebat,Warning,81,640,360,16,0.65,0.12
+Jalan Pendidikan,22:20,1063,28.73,354.33,22,Barat → Timur,Hujan lebat,Normal,54,1920,1080,21,0.68,0.64
+Jalan Bung Karno,14:20,1065,17.32,236.67,26,Utara → Selatan,Hujan ringan,Siaga,89,1920,1080,11,0.51,0.41
+Jalan Pejanggik,10:50,1007,27.51,314.69,21,Utara → Selatan,Berawan,Normal,53,1920,1080,23,0.67,0.1
+Jalan Pejanggik,13:10,1044,32.37,326.25,15,Utara → Selatan,Cerah,Normal,60,1280,720,4,0.71,0.61
+Jalan Pendidikan,17:20,1648,41.5,549.33,21,Selatan → Utara,Cerah,Siaga,54,1280,720,18,0.59,0.56
+Jalan Majapahit,19:50,1008,36.37,252.0,30,Selatan → Utara,Berawan,Normal,59,1280,720,10,0.93,0.41
+Jalan Cilinaya,11:40,789,30.88,315.6,9,Barat → Timur,Hujan ringan,Siaga,71,1280,720,15,0.52,0.5
+Jalan Udayana,07:40,1432,18.2,286.4,21,Utara → Selatan,Hujan lebat,Normal,78,1920,1080,21,0.77,0.84
+Jalan Majapahit,22:20,754,49.81,188.5,12,Selatan → Utara,Hujan ringan,Siaga tinggi,94,1280,720,25,0.33,0.85
+Jalan Cilinaya,21:40,440,23.48,176.0,31,Utara → Selatan,Hujan ringan,Normal,96,640,360,11,0.31,0.72
+Jalan Bung Karno,16:50,1342,37.45,298.22,4,Utara → Selatan,Hujan lebat,Siaga tinggi,58,1280,720,15,0.68,0.33
+Jalan Udayana,17:20,1406,9.09,281.2,14,Utara → Selatan,Hujan lebat,Normal,51,1280,720,15,0.36,0.7
+Jalan Pendidikan,11:10,669,46.69,223.0,23,Utara → Selatan,Cerah,Normal,75,1920,1080,19,0.65,0.86
+Jalan Cilinaya,16:00,1578,31.15,631.2,35,Selatan → Utara,Berawan,Siaga,100,1920,1080,22,0.34,0.37
+Jalan Pejanggik,08:40,1718,10.09,536.88,19,Utara → Selatan,Hujan ringan,Siaga,54,1280,720,4,0.86,0.64
+Jalan Pendidikan,19:30,593,11.85,197.67,14,Timur → Barat,Berawan,Normal,99,1280,720,17,0.76,0.79
+Jalan Pendidikan,09:40,1917,26.9,639.0,38,Selatan → Utara,Cerah,Siaga tinggi,42,640,360,20,0.47,0.83
+Jalan Cilinaya,21:10,712,32.49,284.8,5,Barat → Timur,Berawan,Normal,51,1280,720,21,0.8,0.62
+Jalan Pendidikan,10:30,780,11.73,260.0,0,Timur → Barat,Hujan ringan,Siaga tinggi,50,1280,720,17,0.81,0.47
+Jalan Cilinaya,11:10,1120,40.36,448.0,24,Barat → Timur,Hujan ringan,Siaga,65,640,360,21,0.97,0.79
+Jalan Pejanggik,09:50,1800,9.37,562.5,14,Barat → Timur,Hujan lebat,Siaga,86,1920,1080,11,0.48,0.11
+Jalan Cilinaya,22:10,1094,10.67,437.6,9,Barat → Timur,Cerah,Siaga,62,640,360,12,0.99,0.65
+Jalan Pendidikan,22:20,522,11.11,174.0,27,Timur → Barat,Hujan ringan,Normal,99,640,360,5,0.82,0.72
+Jalan Majapahit,10:10,740,34.53,185.0,22,Timur → Barat,Hujan lebat,Siaga,83,1280,720,12,0.89,0.86
+Jalan Majapahit,07:00,1879,13.56,469.75,14,Timur → Barat,Cerah,Normal,90,1920,1080,9,0.69,0.62
+Jalan Pejanggik,18:40,1033,45.83,322.81,7,Timur → Barat,Hujan ringan,Siaga tinggi,95,1920,1080,23,0.73,0.34
+Jalan Pejanggik,13:30,444,14.85,138.75,28,Utara → Selatan,Hujan lebat,Siaga,55,640,360,14,0.85,0.68
+Jalan Majapahit,09:30,1234,13.62,308.5,26,Selatan → Utara,Cerah,Siaga tinggi,92,640,360,4,0.99,0.82
+Jalan Pejanggik,08:20,1072,49.86,335.0,19,Barat → Timur,Hujan lebat,Normal,99,640,360,7,0.34,0.42
+Jalan Cilinaya,11:10,891,30.52,356.4,38,Timur → Barat,Cerah,Siaga tinggi,74,1920,1080,8,0.33,0.71
+Jalan Majapahit,14:50,434,13.64,108.5,9,Selatan → Utara,Cerah,Warning,87,1920,1080,8,0.8,0.2
+Jalan Cilinaya,22:30,1040,39.79,416.0,4,Utara → Selatan,Cerah,Siaga tinggi,45,640,360,2,0.73,0.87
+Jalan Udayana,21:30,422,26.02,84.4,13,Barat → Timur,Cerah,Normal,98,640,360,3,0.35,0.26
+Jalan Majapahit,13:50,1159,15.82,289.75,19,Utara → Selatan,Berawan,Normal,75,640,360,15,0.59,0.83
+Jalan Bung Karno,18:40,1838,44.87,408.44,22,Timur → Barat,Hujan ringan,Normal,82,640,360,13,0.28,0.77
+Jalan Udayana,20:30,507,19.13,101.4,17,Timur → Barat,Hujan ringan,Warning,88,640,360,24,0.94,0.65
+Jalan Cilinaya,22:50,907,19.23,362.8,23,Barat → Timur,Berawan,Siaga,42,640,360,20,0.32,0.74
+Jalan Majapahit,20:50,1087,15.18,271.75,7,Barat → Timur,Hujan ringan,Normal,48,640,360,10,0.51,0.87
+Jalan Udayana,06:40,778,46.02,155.6,34,Timur → Barat,Cerah,Siaga tinggi,66,640,360,17,0.7,0.68
+Jalan Pejanggik,19:20,1113,16.36,347.81,19,Selatan → Utara,Hujan lebat,Siaga,97,1920,1080,14,0.32,0.6
+Jalan Pendidikan,13:20,943,12.53,314.33,31,Timur → Barat,Berawan,Siaga tinggi,53,1280,720,16,0.28,0.87
+Jalan Bung Karno,06:50,729,40.94,162.0,23,Barat → Timur,Berawan,Siaga tinggi,65,1280,720,21,0.24,0.42
+Jalan Pendidikan,10:20,934,20.39,311.33,24,Selatan → Utara,Cerah,Normal,62,1280,720,23,0.48,0.71
+Jalan Pejanggik,19:10,1003,32.1,313.44,25,Selatan → Utara,Berawan,Warning,54,640,360,24,0.93,0.34
+Jalan Majapahit,06:50,561,33.39,140.25,24,Utara → Selatan,Cerah,Warning,86,1920,1080,16,0.55,0.17
+Jalan Cilinaya,08:10,1223,32.35,489.2,26,Timur → Barat,Hujan ringan,Normal,80,1920,1080,24,0.84,0.6
+Jalan Bung Karno,14:40,720,19.93,160.0,33,Barat → Timur,Cerah,Warning,56,1920,1080,1,0.76,0.24
+Jalan Udayana,11:00,1154,27.73,230.8,21,Selatan → Utara,Hujan lebat,Warning,77,1280,720,14,0.3,0.81
+Jalan Bung Karno,17:30,1746,44.6,388.0,27,Utara → Selatan,Berawan,Normal,95,1920,1080,19,0.65,0.82
+Jalan Udayana,20:00,1158,31.71,231.6,19,Utara → Selatan,Hujan lebat,Warning,66,640,360,17,0.52,0.53
+Jalan Cilinaya,13:50,1192,39.46,476.8,34,Utara → Selatan,Hujan lebat,Warning,89,640,360,13,0.35,0.26
+Jalan Pejanggik,20:00,402,41.56,125.62,13,Selatan → Utara,Hujan lebat,Siaga,85,1920,1080,23,0.79,0.37
+Jalan Udayana,17:00,1556,10.35,311.2,38,Selatan → Utara,Cerah,Warning,46,1920,1080,7,0.31,0.72
+Jalan Udayana,17:30,1343,36.08,268.6,19,Timur → Barat,Cerah,Siaga tinggi,46,1280,720,23,0.3,0.15
+Jalan Pejanggik,16:20,1297,32.42,405.31,5,Barat → Timur,Berawan,Normal,65,1920,1080,18,0.31,0.67
+Jalan Bung Karno,11:50,462,20.95,102.67,21,Barat → Timur,Cerah,Warning,91,1280,720,24,0.97,0.39
+Jalan Udayana,19:40,902,33.22,180.4,13,Barat → Timur,Cerah,Warning,62,1280,720,9,0.72,0.47
+Jalan Cilinaya,19:40,932,18.78,372.8,28,Timur → Barat,Hujan ringan,Siaga tinggi,72,1280,720,21,0.5,0.64
+Jalan Cilinaya,15:20,1179,47.86,471.6,13,Selatan → Utara,Berawan,Siaga,43,640,360,3,0.91,0.77
+Jalan Bung Karno,16:00,1579,24.31,350.89,15,Timur → Barat,Cerah,Siaga tinggi,68,640,360,2,0.66,0.38
+Jalan Pejanggik,18:40,1123,36.11,350.94,1,Utara → Selatan,Cerah,Normal,80,1280,720,14,0.35,0.14
+Jalan Bung Karno,21:40,599,13.6,133.11,15,Timur → Barat,Hujan lebat,Siaga tinggi,73,1280,720,18,0.71,0.3
+Jalan Bung Karno,06:40,1017,40.22,226.0,0,Timur → Barat,Berawan,Siaga,76,1920,1080,24,0.72,0.23
+Jalan Pendidikan,11:20,498,19.04,166.0,4,Selatan → Utara,Hujan ringan,Siaga tinggi,80,1280,720,11,0.84,0.58
+Jalan Pendidikan,07:10,1713,24.05,571.0,27,Barat → Timur,Hujan ringan,Siaga,45,640,360,9,0.75,0.78
+Jalan Cilinaya,06:30,1113,23.51,445.2,27,Timur → Barat,Hujan ringan,Warning,83,640,360,18,0.48,0.33
+Jalan Majapahit,11:50,693,20.09,173.25,24,Selatan → Utara,Hujan ringan,Warning,97,1280,720,19,0.7,0.25
+Jalan Pejanggik,14:00,789,13.07,246.56,10,Barat → Timur,Cerah,Siaga tinggi,71,1920,1080,1,0.59,0.43
+Jalan Cilinaya,06:50,737,15.76,294.8,19,Timur → Barat,Hujan ringan,Siaga,88,1280,720,12,0.81,0.66
+Jalan Udayana,16:50,1375,27.84,275.0,19,Utara → Selatan,Hujan lebat,Siaga tinggi,43,640,360,14,0.5,0.29
+Jalan Cilinaya,22:30,769,10.17,307.6,8,Utara → Selatan,Cerah,Normal,86,1920,1080,6,0.9,0.57
+Jalan Majapahit,15:50,682,15.2,170.5,35,Barat → Timur,Hujan lebat,Siaga,56,1280,720,14,0.99,0.44
+Jalan Cilinaya,19:30,687,29.55,274.8,28,Timur → Barat,Berawan,Normal,52,640,360,23,0.67,0.54
+Jalan Majapahit,19:10,334,27.28,83.5,17,Utara → Selatan,Hujan lebat,Siaga,71,1920,1080,16,0.54,0.56
+Jalan Udayana,19:30,714,31.99,142.8,20,Barat → Timur,Cerah,Siaga,67,1280,720,23,0.98,0.53
+Jalan Pejanggik,15:10,410,16.57,128.12,22,Barat → Timur,Berawan,Siaga,40,1280,720,3,0.77,0.43
+Jalan Udayana,10:00,460,42.16,92.0,0,Utara → Selatan,Cerah,Siaga,99,1280,720,16,0.5,0.68
+Jalan Udayana,06:30,428,14.84,85.6,17,Selatan → Utara,Berawan,Normal,97,1280,720,2,0.57,0.22
+Jalan Udayana,18:20,1894,15.79,378.8,13,Selatan → Utara,Berawan,Siaga,59,1920,1080,2,0.27,0.82
+Jalan Udayana,18:50,1617,48.25,323.4,9,Barat → Timur,Cerah,Normal,88,1920,1080,6,0.28,0.27
+Jalan Bung Karno,20:40,408,32.69,90.67,17,Barat → Timur,Hujan lebat,Siaga,73,1280,720,15,0.87,0.79
+Jalan Cilinaya,14:50,1058,19.1,423.2,37,Utara → Selatan,Cerah,Normal,49,1920,1080,18,0.34,0.16
+Jalan Pendidikan,17:10,1458,22.7,486.0,26,Timur → Barat,Berawan,Siaga tinggi,87,640,360,14,0.24,0.16
+Jalan Pejanggik,18:30,1211,44.26,378.44,14,Selatan → Utara,Berawan,Siaga tinggi,99,1280,720,22,0.73,0.13
+Jalan Majapahit,07:10,1303,32.41,325.75,25,Selatan → Utara,Berawan,Siaga tinggi,44,640,360,13,0.78,0.81
